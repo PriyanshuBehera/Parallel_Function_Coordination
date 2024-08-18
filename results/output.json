@@ -1,0 +1,3229 @@
+{
+    "5a8b57f25542995d1e6f1371": {
+        "question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 8.614058017730713,
+        "stats": null
+    },
+    "5adbf0a255429947ff17385a": {
+        "question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+        "label": "no",
+        "answer": "no",
+        "time": 7.325758695602417,
+        "stats": null
+    },
+    "5a8db19d5542994ba4e3dd00": {
+        "question": "Are Local H and For Against both from the United States?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 7.1953771114349365,
+        "stats": null
+    },
+    "5ab56e32554299637185c594": {
+        "question": "Are Random House Tower and 888 7th Avenue both used for real estate?",
+        "label": "no",
+        "answer": "yes",
+        "time": 7.834862470626831,
+        "stats": null
+    },
+    "5ab29c24554299449642c932": {
+        "question": "Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 6.3830506801605225,
+        "stats": null
+    },
+    "5a8133725542995ce29dcbdb": {
+        "question": "Which writer was from England, Henry Roth or Robert Erskine Childers?",
+        "label": "Robert Erskine Childers DSC",
+        "answer": "Robert Erskine Childers",
+        "time": 12.507989883422852,
+        "stats": null
+    },
+    "5ae2070a5542994d89d5b313": {
+        "question": "Which performance act has a higher instrument to person ratio, Badly Drawn Boy or Wolf Alice? ",
+        "label": "Badly Drawn Boy",
+        "answer": "Badly Drawn Boy",
+        "time": 11.735517024993896,
+        "stats": null
+    },
+    "5abd259d55429924427fcf1a": {
+        "question": "Are both Dictyosperma, and Huernia described as a genus?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 8.88138461112976,
+        "stats": null
+    },
+    "5ae4a3265542995ad6573de5": {
+        "question": "Hayden is a singer-songwriter from Canada, but where does Buck-Tick hail from?",
+        "label": "Fujioka, Gunma",
+        "answer": "Japan",
+        "time": 7.437009811401367,
+        "stats": null
+    },
+    "5abc0a5d5542993f40c73c64": {
+        "question": "Are Freakonomics and In the Realm of the Hackers both American documentaries?",
+        "label": "no",
+        "answer": "no",
+        "time": 8.489932298660278,
+        "stats": null
+    },
+    "5a7cc50e554299452d57ba3e": {
+        "question": "Which band, Letters to Cleo or Screaming Trees, had more members?",
+        "label": "Letters to Cleo",
+        "answer": "Letters to Cleo",
+        "time": 15.37721061706543,
+        "stats": null
+    },
+    "5ab51dae5542991779162d82": {
+        "question": "Are both Elko Regional Airport and Gerald R. Ford International Airport located in Michigan?",
+        "label": "no",
+        "answer": "no",
+        "time": 10.845630407333374,
+        "stats": null
+    },
+    "5a7a0e1e5542990783324e1a": {
+        "question": "Which dog's ancestors include Gordon and Irish Setters: the Manchester Terrier or the Scotch Collie?",
+        "label": "Scotch Collie",
+        "answer": "unknown",
+        "time": 10.489593982696533,
+        "stats": null
+    },
+    "5a8e068b5542995085b37384": {
+        "question": "Are Ferocactus and Silene both types of plant?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 9.463701963424683,
+        "stats": null
+    },
+    "5adc53f75542996e6852530a": {
+        "question": "Are both Cypress and Ajuga genera?",
+        "label": "no",
+        "answer": "no",
+        "time": 8.213636875152588,
+        "stats": null
+    },
+    "5a7be2595542997c3ec972ac": {
+        "question": "Who was born earlier, Emma Bull or Virginia Woolf?",
+        "label": "Adeline Virginia Woolf",
+        "answer": "Virginia Woolf",
+        "time": 8.659809350967407,
+        "stats": null
+    },
+    "5a7759fc5542993569682d60": {
+        "question": "Where are Teide National Park and Garajonay National Park located?",
+        "label": "Canary Islands, Spain",
+        "answer": "Canary Islands, Spain",
+        "time": 9.277294874191284,
+        "stats": null
+    },
+    "5aba749055429901930fa7d8": {
+        "question": "What occupation do Chris Menges and Aram Avakian share?",
+        "label": "director",
+        "answer": "film director",
+        "time": 9.851823329925537,
+        "stats": null
+    },
+    "5ae224da554299234fd043ee": {
+        "question": "Do the drinks Gibson and Zurracapote both contain gin?",
+        "label": "no",
+        "answer": "no",
+        "time": 8.942116975784302,
+        "stats": null
+    },
+    "5ac1b8ee5542994d76dccedc": {
+        "question": "Which filmmaker was known for animation, Lev Yilmaz or Pamela B. Green?",
+        "label": "Levni Yilmaz",
+        "answer": "Lev Yilmaz",
+        "time": 8.040059566497803,
+        "stats": null
+    },
+    "5a84c4135542994c784dda31": {
+        "question": "Are Yingkou and Fuding the same level of city?",
+        "label": "no",
+        "answer": "no",
+        "time": 10.983967542648315,
+        "stats": null
+    },
+    "5a7a455c5542994f819ef1a7": {
+        "question": "Who died first, George Archainbaud or Ralph Murphy?",
+        "label": "George Archainbaud",
+        "answer": "George Archainbaud",
+        "time": 8.81173825263977,
+        "stats": null
+    },
+    "5add11935542994734353827": {
+        "question": "Were the bands Skin Yard and Ostava from the U.S.?",
+        "label": "no",
+        "answer": "no",
+        "time": 8.38679814338684,
+        "stats": null
+    },
+    "5a8c5569554299240d9c2126": {
+        "question": "Are Daryl Hall and Gerry Marsden both musicians?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 6.671424388885498,
+        "stats": null
+    },
+    "5a8574945542997b5ce3fffb": {
+        "question": "Which film was Oscar nominated, LaLee's Kin: The Legacy of Cotton or Gimme Shelter, the 1970 Rolling Stones documentary?",
+        "label": "LaLee's Kin: The Legacy of Cotton",
+        "answer": "LaLee's Kin: The Legacy of Cotton",
+        "time": 11.322994709014893,
+        "stats": null
+    },
+    "5a7332935542991f9a20c67d": {
+        "question": "Which board game was published most recently, Pirate's Cove or Catan?",
+        "label": "Pirate's Cove",
+        "answer": "Pirate's Cove",
+        "time": 11.437799453735352,
+        "stats": null
+    },
+    "5ac2d1d755429921a00ab053": {
+        "question": "Who had the best singles ranking, Roberta Vinci or Jorge Lozano?",
+        "label": "Roberta Vinci",
+        "answer": "Roberta Vinci",
+        "time": 11.525656700134277,
+        "stats": null
+    },
+    "5ac298f9554299657fa28fc9": {
+        "question": "Josey Scott and Ian Watkins were both promising musicians. Which of these talented men was incarcerated, impacting his career with a rock band?",
+        "label": "Lostprophets disbanded in 2013 after Watkins was charged with sexual offences in late 2012.",
+        "answer": "Ian Watkins",
+        "time": 13.621866464614868,
+        "stats": null
+    },
+    "5a88d745554299206df2b378": {
+        "question": "What occupation was shared by David Yates and Pietro Germi?",
+        "label": "director",
+        "answer": "filmmaking",
+        "time": 9.815720081329346,
+        "stats": null
+    },
+    "5ab642845542995eadeeff8e": {
+        "question": "Are Broughtonia and Laeliocattleya both orchids?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 13.280450105667114,
+        "stats": null
+    },
+    "5a7633ad5542992db9473741": {
+        "question": "Which was fought earlier in our nation's history, the Seven Days Battles or the Battle of Manila?",
+        "label": "The Seven Days Battles",
+        "answer": "Seven Days Battles",
+        "time": 13.529837608337402,
+        "stats": null
+    },
+    "5a7cbf8c554299452d57b9f4": {
+        "question": "Which came out first, Dinosaur or McFarland, USA",
+        "label": "Dinosaur",
+        "answer": "Dinosaur",
+        "time": 15.05585503578186,
+        "stats": null
+    },
+    "5ab6ba245542995eadef007f": {
+        "question": "Are Bamboo Ma\u00f1alac and Danny Jones both musicians?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 9.513801574707031,
+        "stats": null
+    },
+    "5ab271fe554299449642c8a6": {
+        "question": "Do The Importance of Being Icelandic and The Five Obstructions belong to different film genres ?",
+        "label": "no",
+        "answer": "yes",
+        "time": 12.690491914749146,
+        "stats": null
+    },
+    "5ab8ee035542991b5579f04b": {
+        "question": "Are Hot Rod and The Memory of Our People both magazines?",
+        "label": "yes",
+        "answer": "no",
+        "time": 14.432752132415771,
+        "stats": null
+    },
+    "5a717d4c5542994082a3e854": {
+        "question": "Who has written more than 300 papers, Semyon Aranovich Gershgorin or Pavel Alexandrov?",
+        "label": "Pavel Sergeyevich Alexandrov",
+        "answer": "Pavel Alexandrov",
+        "time": 8.82765817642212,
+        "stats": null
+    },
+    "5a834ed95542990548d0b1ca": {
+        "question": "Which tower is taller, 712 Fifth Avenue or Manhattan Life Insurance Building?",
+        "label": "712 5th Avenue",
+        "answer": "712 Fifth Avenue",
+        "time": 8.778578519821167,
+        "stats": null
+    },
+    "5a7b7ff75542995eb53be93d": {
+        "question": "Who was born first, Arthur Conan Doyle or Penelope Lively?",
+        "label": "Arthur Ignatius Conan Doyle",
+        "answer": "Arthur Conan Doyle",
+        "time": 11.279977798461914,
+        "stats": null
+    },
+    "5adc65e85542996e68525350": {
+        "question": "Are both Dafeng District and Dazhou located in the same province?",
+        "label": "no",
+        "answer": "no",
+        "time": 12.74428915977478,
+        "stats": null
+    },
+    "5ac289ff5542996366519a02": {
+        "question": "Is the Marsilea or the Brabejum the genus of more individual species of plants?",
+        "label": "Marsilea",
+        "answer": "Marsilea",
+        "time": 8.279438018798828,
+        "stats": null
+    },
+    "5ab9b29c554299743d22ebae": {
+        "question": "Which case came first, Craig v. Boren or United States v. Paramount Pictures, Inc.?",
+        "label": "Craig v. Boren",
+        "answer": "United States v. Paramount Pictures, Inc.",
+        "time": 10.90397334098816,
+        "stats": null
+    },
+    "5ab1d7ac554299449642c7e6": {
+        "question": "Which genus has more species, Xanthoceras or Ehretia?",
+        "label": "Ehretia",
+        "answer": "Ehretia",
+        "time": 6.944847345352173,
+        "stats": null
+    },
+    "5ae058e855429945ae959331": {
+        "question": "Are  Chrysalis and Look both women's magazines?",
+        "label": "yes",
+        "answer": "no",
+        "time": 10.335596561431885,
+        "stats": null
+    },
+    "5a7b8749554299294a54a9db": {
+        "question": "Which author has won more Pulitzer Prizes, Thomas Friedman or Henri Bergson?",
+        "label": "Thomas Loren Friedman",
+        "answer": "Thomas Friedman",
+        "time": 15.365004062652588,
+        "stats": null
+    },
+    "5ae4d3c95542990ba0bbb165": {
+        "question": "In what city can a person find both the Nusretiye Clock Tower and the Eski Imaret Mosque be found?",
+        "label": "Istanbul, Turkey",
+        "answer": "Istanbul",
+        "time": 10.455381631851196,
+        "stats": null
+    },
+    "5a879ba55542993e715abfc3": {
+        "question": "Which director had the longest career, Alain Resnais or Scott Sidney?",
+        "label": "Scott Sidney",
+        "answer": "Alain Resnais",
+        "time": 12.330499172210693,
+        "stats": null
+    },
+    "5ab1e984554299340b525428": {
+        "question": "which is larger Asante Traditional Buildings or Gulangyu?",
+        "label": "Gulangyu",
+        "answer": "Gulangyu",
+        "time": 11.611273050308228,
+        "stats": null
+    },
+    "5ac5199a5542994611c8b38a": {
+        "question": "Can Stenocereus and Pachypodium both include tree like plants?",
+        "label": "yes",
+        "answer": "unclear",
+        "time": 14.290790319442749,
+        "stats": null
+    },
+    "5ab6369655429953192ad2a1": {
+        "question": "Which Genus has more species Eucryphia or Lepidozamia ?",
+        "label": "Eucryphia",
+        "answer": "Eucryphia",
+        "time": 12.465254068374634,
+        "stats": null
+    },
+    "5ab8f7535542991b5579f0a7": {
+        "question": "Which film was released first: Sacred Planet or Oz the Great and Powerful?",
+        "label": "Sacred Planet",
+        "answer": "Sacred Planet",
+        "time": 9.737850427627563,
+        "stats": null
+    },
+    "5a7d2afd5542995f4f402221": {
+        "question": "Who is older, Ferdi Taygan or Mahesh Bhupathi?",
+        "label": "Ferdi Taygan",
+        "answer": "Ferdi Taygan",
+        "time": 11.483965635299683,
+        "stats": null
+    },
+    "5a7555215542996c70cfaee1": {
+        "question": "Which came to market first, \"Hey Pa! There's a Goat on the Roof\" or \"Poleconomy\"",
+        "label": "Hey Pa! There's a Goat on the Roof",
+        "answer": "\"Hey Pa! There's a Goat on the Roof\"",
+        "time": 11.387740135192871,
+        "stats": null
+    },
+    "5ac3ae475542995ef918c1e5": {
+        "question": "Are Skeptical Inquirer and The Progressive Populist both tabloid-style magazines?",
+        "label": "no",
+        "answer": "no",
+        "time": 10.080491781234741,
+        "stats": null
+    },
+    "5a7be5bd5542997c3ec972ba": {
+        "question": "Which dog is considered a giant dog breed, the  Leonberger or the Basset Hound?",
+        "label": "The Leonberger is a giant dog breed.",
+        "answer": "Leonberger",
+        "time": 8.894346952438354,
+        "stats": null
+    },
+    "5a7ec61a55429934daa2fc5f": {
+        "question": "Are Staten Island Catapult and This Is Elvis both documentaries?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 11.97869062423706,
+        "stats": null
+    },
+    "5a867089554299211dda2b30": {
+        "question": "Which magazine is published more often, Shonen Jump or Rolling Stone?",
+        "label": "Rolling Stone",
+        "answer": "Shonen Jump",
+        "time": 12.848945617675781,
+        "stats": null
+    },
+    "5a76387d554299109176e6ba": {
+        "question": "Who was born first Am Rong or Ava DuVernay ?",
+        "label": "Am Rong",
+        "answer": "Am Rong",
+        "time": 10.11528491973877,
+        "stats": null
+    },
+    "5abbd3ac55429931dba1458b": {
+        "question": "Are both Duke Energy and Affiliated Managers Group based in Massachusetts?",
+        "label": "no",
+        "answer": "no",
+        "time": 8.03442668914795,
+        "stats": null
+    },
+    "5a8d93ad554299653c1aa13d": {
+        "question": "Who was also an actor, Serri or John Fogerty?",
+        "label": "Serri",
+        "answer": "neither",
+        "time": 11.46636438369751,
+        "stats": null
+    },
+    "5ac4392e5542997ea680ca32": {
+        "question": "Were Enrique Carreras and Lionel Ngakane both filmakers during the 20th century? ",
+        "label": "yes",
+        "answer": "yes",
+        "time": 9.701939344406128,
+        "stats": null
+    },
+    "5a8e3dc05542995085b37401": {
+        "question": "Which case was decided first, Selle v. Gibb or Reynolds v. Sims?",
+        "label": "1964",
+        "answer": "Reynolds v. Sims",
+        "time": 9.30807113647461,
+        "stats": null
+    },
+    "5ab5b6c1554299637185c5e5": {
+        "question": "Did Franki Valli sing with Hellogoodbye or The Four Seasons?",
+        "label": "The Four Seasons",
+        "answer": "The Four Seasons",
+        "time": 11.207800149917603,
+        "stats": null
+    },
+    "5ae25ed15542992decbdccd2": {
+        "question": "Both Sorbaria and Goldenrod are a genus of more than 50 flowering plants?",
+        "label": "no",
+        "answer": "no",
+        "time": 12.352039575576782,
+        "stats": null
+    },
+    "5add67555542992ae4cec54e": {
+        "question": "Which of these battles occurred earlier--the Battle of Peleliu or the Battle of Belleau Wood?",
+        "label": "The Battle of Belleau Wood",
+        "answer": "Battle of Belleau Wood",
+        "time": 12.966539144515991,
+        "stats": null
+    },
+    "5a78b209554299148911f93e": {
+        "question": "Which playwright lived a longer life, Edward Albee or J. M. Barrie?",
+        "label": "Edward Franklin Albee III",
+        "answer": "Edward Albee",
+        "time": 10.003792524337769,
+        "stats": null
+    },
+    "5ab85a1155429934fafe6d7c": {
+        "question": "Are both Rutgers University and Carnegie Mellon University located in America?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 7.483198404312134,
+        "stats": null
+    },
+    "5ab8f57b5542991b5579f097": {
+        "question": "Were Thomas H. Ince and Joseph McGrath of the same nationality?",
+        "label": "no",
+        "answer": "no",
+        "time": 12.13005256652832,
+        "stats": null
+    },
+    "5ab6bf6d55429953192ad372": {
+        "question": "Are Phlebodium and Pieris both species of ferns?",
+        "label": "no",
+        "answer": "no",
+        "time": 13.606629371643066,
+        "stats": null
+    },
+    "5a7dd9445542997cc2c474ac": {
+        "question": "Which novelist, J. G. Farrell or Louis Aragon, wrote of the political and human consequences of his country's colonial rule?",
+        "label": "Farrell",
+        "answer": "J. G. Farrell",
+        "time": 8.549994230270386,
+        "stats": null
+    },
+    "5abc8620554299700f9d78e2": {
+        "question": "What type of media does Bitter Jester and Sicko have in common?",
+        "label": "documentary",
+        "answer": "film",
+        "time": 12.314608097076416,
+        "stats": null
+    },
+    "5a7b76735542997c3ec9719f": {
+        "question": "which is traditionally drunk before retiring to bed, Hot toddy or Kir?",
+        "label": "Hot toddy",
+        "answer": "Hot toddy",
+        "time": 11.328394651412964,
+        "stats": null
+    },
+    "5a77309d55429972597f1487": {
+        "question": "Who was born first, Jos\u00e9 Echegaray y Eizaguirre or P. J. O'Rourke?",
+        "label": "Jos\u00e9 Echegaray y Eizaguirre",
+        "answer": "Jos\u00e9 Echegaray y Eizaguirre",
+        "time": 14.36478567123413,
+        "stats": null
+    },
+    "5abe689a55429976d4830b16": {
+        "question": "Which Grand Slam singles tournament have Francesca Schiavone and Olga Morozova both been finalists in?",
+        "label": "French Open",
+        "answer": "French Open",
+        "time": 12.984198331832886,
+        "stats": null
+    },
+    "5a78daf855429970f5fffdae": {
+        "question": "Which game was released first, Icehouse pieces or Kill Doctor Lucky?",
+        "label": "Icehouse pieces",
+        "answer": "Icehouse pieces",
+        "time": 13.045714616775513,
+        "stats": null
+    },
+    "5a7e7ed05542991319bc94c2": {
+        "question": "Which magazine is older, Gallery or Dime Magazine?",
+        "label": "arose on the \"Playboy\" magazine pattern in the 1970s.",
+        "answer": "Gallery",
+        "time": 12.605347394943237,
+        "stats": null
+    },
+    "5abf44025542993fe9a41def": {
+        "question": "which writer has the highest number of skill  Langston Hughes or  Ian McEwan",
+        "label": "Langston Hughes",
+        "answer": "Cannot be determined based on the information provided",
+        "time": 6.999941825866699,
+        "stats": null
+    },
+    "5ac45b58554299076e296dad": {
+        "question": "Which has the larger population, Shanghai or Hanggin Rear Banner?",
+        "label": "Shanghai",
+        "answer": "Shanghai",
+        "time": 8.781231880187988,
+        "stats": null
+    },
+    "5a8f9b8c5542997ba9cb32e6": {
+        "question": "Which band is from England, Fireflight or Dirty Pretty Things?",
+        "label": "Dirty Pretty Things",
+        "answer": "Dirty Pretty Things",
+        "time": 8.393399000167847,
+        "stats": null
+    },
+    "5ab6f0c25542995eadef00ea": {
+        "question": "Are Buried Country and South of the Border both films turned into stage performances?",
+        "label": "no",
+        "answer": "no",
+        "time": 12.116041660308838,
+        "stats": null
+    },
+    "5ab72a025542992aa3b8c7b8": {
+        "question": "\"A Summer in the Cage\" and \"American Hardcore\" are both what kind of film?",
+        "label": "documentary",
+        "answer": "documentary films",
+        "time": 13.117600440979004,
+        "stats": null
+    },
+    "5a738225554299623ed4abc3": {
+        "question": "Which musical fantasy film is older, Bedknobs and Broomsticks or The Muppet Christmas Carol?",
+        "label": "Bedknobs and Broomsticks",
+        "answer": "Bedknobs and Broomsticks",
+        "time": 14.398504734039307,
+        "stats": null
+    },
+    "5ab25004554299722f9b4cd7": {
+        "question": "Were both the Battle of Stones River and the Battle of the Ch'ongch'on River fought in the 19th century?",
+        "label": "no",
+        "answer": "no",
+        "time": 8.547515153884888,
+        "stats": null
+    },
+    "5ac1f4495542991316484bd2": {
+        "question": "Who has more scope of profession, Phil Rosen or  Delmer Daves?",
+        "label": "Delmer Lawrence Daves",
+        "answer": "Delmer Daves",
+        "time": 16.120376348495483,
+        "stats": null
+    },
+    "5ac0cf0f554299294b219018": {
+        "question": "Which band has more members, Test Icicles or X Ambassadors?",
+        "label": "X Ambassadors",
+        "answer": "X Ambassadors",
+        "time": 12.077823638916016,
+        "stats": null
+    },
+    "5ab3306a55429969a97a80fd": {
+        "question": "The movies The Boatniks and The Great Locomotive Chase were both made by which production company?",
+        "label": "Walt Disney Productions",
+        "answer": "Walt Disney Productions",
+        "time": 10.644444942474365,
+        "stats": null
+    },
+    "5ae4ec1e5542990ba0bbb19b": {
+        "question": "In between The Bears and I and Oceans which was released on July 31, 1974, by Buena Vista Distribution?",
+        "label": "The Bears and I",
+        "answer": "The Bears and I",
+        "time": 12.369627952575684,
+        "stats": null
+    },
+    "5adc0c2b55429947ff1738db": {
+        "question": "Are Agee and To Shoot an Elephant both documentaries about war?",
+        "label": "no",
+        "answer": "no",
+        "time": 12.924052715301514,
+        "stats": null
+    },
+    "5a7574e25542996c70cfaf01": {
+        "question": "Who was born first Mahbub ul Haq or Ibn Arabi?",
+        "label": "ibn\u02bfArab\u012b",
+        "answer": "Ibn Arabi",
+        "time": 17.04257845878601,
+        "stats": null
+    },
+    "5a71166d5542994082a3e576": {
+        "question": "Which battle occurred first, the Battle of Manila or the Battle of Guam?",
+        "label": "Battle of Guam",
+        "answer": "Battle of Guam",
+        "time": 19.053454637527466,
+        "stats": null
+    },
+    "5a79c1335542994bb9457066": {
+        "question": "Eric Ambler and Carol Shields are both best Known for what profession?",
+        "label": "author",
+        "answer": "writing",
+        "time": 8.381277084350586,
+        "stats": null
+    },
+    "5ae0038655429925eb1afbe0": {
+        "question": "Which is a Macedonian weekly, H\u00e4nt Extra or Tea Moderna?",
+        "label": "Tea Moderna",
+        "answer": "Tea Moderna",
+        "time": 10.109224319458008,
+        "stats": null
+    },
+    "5a73977d554299623ed4ac08": {
+        "question": "What is the shared country of ancestry between Art Laboe and Scout Tufankjian?",
+        "label": "Armenian",
+        "answer": "Armenia",
+        "time": 7.973067760467529,
+        "stats": null
+    },
+    "5ae1316555429901ffe4adda": {
+        "question": "Were Goo Goo Dolls and Echosmith formed in the same city?",
+        "label": "no",
+        "answer": "no",
+        "time": 9.101718187332153,
+        "stats": null
+    },
+    "5adeffa85542992d7e9f926f": {
+        "question": "What genre of music was played by both Tappi T\u00edkarrass and INXS?",
+        "label": "rock",
+        "answer": "funk",
+        "time": 13.61253833770752,
+        "stats": null
+    },
+    "5ae15e125542990adbacf773": {
+        "question": "In between Berghuis v. Thompkins and Mississippi University for Women v. Hogan which one was a  case decided 5-4 by the Supreme Court of the United States?",
+        "label": "Mississippi University for Women",
+        "answer": "Mississippi University for Women v. Hogan",
+        "time": 12.720839738845825,
+        "stats": null
+    },
+    "5a8f45ca5542997ba9cb320e": {
+        "question": "What type of film are both \"500 Years Later\" and \"Manson\"?",
+        "label": "documentary",
+        "answer": "documentary",
+        "time": 9.098655223846436,
+        "stats": null
+    },
+    "5a71443f5542994082a3e727": {
+        "question": "Is Gasherbrum II or Nuptse closest to the tallest mountain in the world?",
+        "label": "It lies two kilometres WSW of Mount Everest.",
+        "answer": "Nuptse",
+        "time": 12.145180225372314,
+        "stats": null
+    },
+    "5ab611cc5542992aa134a411": {
+        "question": "What professions did S. Sylvan Simon and Danny Cannon have in common?",
+        "label": "director and producer",
+        "answer": "Directing and Producing",
+        "time": 8.404025077819824,
+        "stats": null
+    },
+    "5a8cd381554299653c1aa12b": {
+        "question": "who had to escape nazis, Sigmund Freud or Evelyn Waugh?",
+        "label": "Sigmund Freud",
+        "answer": "Sigmund Freud",
+        "time": 10.459983110427856,
+        "stats": null
+    },
+    "5abb1e1b5542992ccd8e7f19": {
+        "question": "Jos\u00e9 Saramago and Ivo Andri\u0107 were recipients of what award in Literature?",
+        "label": "Nobel Prize in Literature",
+        "answer": "Nobel Prize in Literature",
+        "time": 9.04111623764038,
+        "stats": null
+    },
+    "5adeb95d5542992fa25da827": {
+        "question": "Are Chlidanthus and Maianthemum both flowering plants?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 10.280148267745972,
+        "stats": null
+    },
+    "5ae54eea5542993aec5ec19d": {
+        "question": "Which band was formed first, Wavves or Social Code?",
+        "label": "Social Code",
+        "answer": "Social Code",
+        "time": 7.8164122104644775,
+        "stats": null
+    },
+    "5a7a27ce5542996c55b2dd28": {
+        "question": "What took place first, The Korean War or The Western Allied invasion of Germany?",
+        "label": "The Western Allied invasion of Germany",
+        "answer": "The Western Allied invasion of Germany",
+        "time": 12.877254724502563,
+        "stats": null
+    },
+    "5ab9812d554299753720f821": {
+        "question": "Are Mauritz Stiller and Johannes Grenzfurthner both of the same nationality?",
+        "label": "no",
+        "answer": "no",
+        "time": 12.527872562408447,
+        "stats": null
+    },
+    "5ac2546a554299636651997b": {
+        "question": "Who has released more studio albums, Candlelight Red or Motion City Soundtrack?",
+        "label": "Motion City Soundtrack",
+        "answer": "Motion City Soundtrack",
+        "time": 12.161938428878784,
+        "stats": null
+    },
+    "5ac1a04e5542991316484b63": {
+        "question": "Are both Jim McBride and Neil Jordan American?",
+        "label": "no",
+        "answer": "no",
+        "time": 9.477349042892456,
+        "stats": null
+    },
+    "5a78bc6b554299148911f979": {
+        "question": "Woman's Era and Naj are what kind of magazines?",
+        "label": "fortnightly women interest magazine",
+        "answer": "women's interest magazines",
+        "time": 11.415899515151978,
+        "stats": null
+    },
+    "5a8a7d2b55429930ff3c0dfc": {
+        "question": "Are the flowering plants Ecballium and Elatostema in the same family?",
+        "label": "no",
+        "answer": "no",
+        "time": 10.802542209625244,
+        "stats": null
+    },
+    "5ae3f2395542995ad6573cc6": {
+        "question": "Are Ganzhou and Jimo District both located in China?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 9.791625738143921,
+        "stats": null
+    },
+    "5a90bd7b55429916514e7547": {
+        "question": "Which has more species, Aichryson or Polypodium?",
+        "label": "Polypodium",
+        "answer": "Polypodium",
+        "time": 9.657520294189453,
+        "stats": null
+    },
+    "5a77c74155429967ab105291": {
+        "question": "Which band formed in England, Of Montreal or Vib Gyor?",
+        "label": "Vib Gyor was a band that was formed in Leeds, England.",
+        "answer": "Vib Gyor",
+        "time": 13.792921543121338,
+        "stats": null
+    },
+    "5ab528a3554299637185c4e5": {
+        "question": "What are both James Hetfield and Bob Marley?",
+        "label": "musician, singer, and songwriter",
+        "answer": "musicians",
+        "time": 8.330039262771606,
+        "stats": null
+    },
+    "5a74701655429979e2882952": {
+        "question": "Which band has released the most studio albums, Blonde Redhead or Rob Zombie's band White Zombie?",
+        "label": "Blonde Redhead",
+        "answer": "Blonde Redhead",
+        "time": 11.978611469268799,
+        "stats": null
+    },
+    "5a7a6ee75542996c55b2ddac": {
+        "question": "Who was born first, Krzysztof Zanussi or Thom Andersen?",
+        "label": "Krzysztof Zanussi",
+        "answer": "Krzysztof Zanussi",
+        "time": 10.139783382415771,
+        "stats": null
+    },
+    "5ae064985542993d6555eb47": {
+        "question": "are the documentaries Out of Place and The Mosuo Sisters by the same director ?",
+        "label": "no",
+        "answer": "unknown",
+        "time": 11.736929416656494,
+        "stats": null
+    },
+    "5adbe9fa55429944faac23ba": {
+        "question": "Are both Parodia and Thalictrum flowering plants?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 9.248165369033813,
+        "stats": null
+    },
+    "5ae31bbd55429928c42395fc": {
+        "question": "Are Guildford Cathedral and St Paul's Cathedral both located in England?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 11.879694700241089,
+        "stats": null
+    },
+    "5ae2120e5542997283cd23ad": {
+        "question": "Are Distortion Mirrors and OK Go both considered rock bands?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 12.51667857170105,
+        "stats": null
+    },
+    "5a9052765542995651fb513d": {
+        "question": "Which author is an economist, Czes\u0142aw Mi\u0142osz or Bhabananda Deka?",
+        "label": "Prof Bhabananda Deka",
+        "answer": "Bhabananda Deka",
+        "time": 17.12321186065674,
+        "stats": null
+    },
+    "5a7cdd6b55429909bec76858": {
+        "question": "Which band formed earlier, Edward Sharpe and the Magnetic Zeros or Louis XIV?",
+        "label": "Louis XIV",
+        "answer": "Louis XIV",
+        "time": 12.589318037033081,
+        "stats": null
+    },
+    "5a726b0f5542997f827839be": {
+        "question": "Who was born first, Samantha Cristoforetti or Jean-Loup Chr\u00e9tien",
+        "label": "Jean-Loup Jacques Marie Chr\u00e9tien",
+        "answer": "Jean-Loup Chr\u00e9tien",
+        "time": 12.982572793960571,
+        "stats": null
+    },
+    "5ae534bb5542990ba0bbb21d": {
+        "question": "In between Liberty and MIT Technology Review which has a circulation of over 200,000?",
+        "label": "Liberty",
+        "answer": "MIT Technology Review",
+        "time": 19.324037551879883,
+        "stats": null
+    },
+    "5adf430e5542993a75d2645e": {
+        "question": "Which canal, Miami Canal or Dundee Canal, also supplies hydro-power and water for manufacturing?",
+        "label": "Dundee Canal",
+        "answer": "Dundee Canal",
+        "time": 8.946590423583984,
+        "stats": null
+    },
+    "5abed9435542994516f45457": {
+        "question": "Which of the following stars Jeff Bridges as a computer programmer: Tron or The Million Dollar Duck?",
+        "label": "Tron",
+        "answer": "Tron",
+        "time": 12.876585483551025,
+        "stats": null
+    },
+    "5a84d80c5542992a431d1ab5": {
+        "question": "Which building is used for more different uses, MiMA or 270 Park Avenue?",
+        "label": "MiMA",
+        "answer": "MiMA",
+        "time": 13.433472156524658,
+        "stats": null
+    },
+    "5a8fa4d95542995b4424207b": {
+        "question": "Which airport is busier, Palm Springs International Airport or Trenton\u2013Mercer Airport?",
+        "label": "Trenton\u2013Mercer Airport",
+        "answer": "Trenton\u2013Mercer Airport",
+        "time": 14.060278415679932,
+        "stats": null
+    },
+    "5a8bbfb15542995e66a474f6": {
+        "question": "Peter Curtis and Scott Draper are both what?",
+        "label": "former tennis player",
+        "answer": "sportsman",
+        "time": 15.93442702293396,
+        "stats": null
+    },
+    "5ae370295542992e3233c402": {
+        "question": "Henry Roth and Lewis Mumford are both this nationality?",
+        "label": "American",
+        "answer": "American",
+        "time": 10.478723287582397,
+        "stats": null
+    },
+    "5ae3e2455542994393b9e78c": {
+        "question": "Scout Tufankjian and Daron Malakian are both what?",
+        "label": "Armenian\u2013American",
+        "answer": "Armenian-American",
+        "time": 8.225006580352783,
+        "stats": null
+    },
+    "5a711cb45542994082a3e59f": {
+        "question": "Who has won more Grand Slam women's doubles titles, Lisa Raymond or Liezel Huber?",
+        "label": "Liezel Huber",
+        "answer": "Lisa Raymond",
+        "time": 14.004189014434814,
+        "stats": null
+    },
+    "5a8b81bc55429949d91db5b8": {
+        "question": "What type of publication does St. Anthony Messenger and Revolver have in common?",
+        "label": "magazine",
+        "answer": "magazine",
+        "time": 9.052850723266602,
+        "stats": null
+    },
+    "5a73bcf055429978a71e909c": {
+        "question": "Which novelist wrote under the pen name Walter Ericson: Laura Esquivel or Howard Fast?",
+        "label": "Howard Melvin Fast",
+        "answer": "Howard Fast",
+        "time": 10.830473899841309,
+        "stats": null
+    },
+    "5add10ca5542994ed6169c59": {
+        "question": "Were Illinois Institute of Technology and Boise State University both bounded before 1950?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 9.660229444503784,
+        "stats": null
+    },
+    "5a817f6655429938b6142349": {
+        "question": "Which American singer and songwriter has a mezzo-soprano vocal range, Tim Armstrong or Tori Amos?",
+        "label": "Tori Amos",
+        "answer": "Tori Amos",
+        "time": 8.434372663497925,
+        "stats": null
+    },
+    "5ab639e65542995eadeeff7f": {
+        "question": "Who has won more awards, Dan Schneider or Helen Hunt?",
+        "label": "Helen Elizabeth Hunt",
+        "answer": "Helen Hunt",
+        "time": 6.218014240264893,
+        "stats": null
+    },
+    "5ac0e6fa5542996f0d89cc35": {
+        "question": "Which film was created more recently, Koyaanisqatsi or Mad Hot Ballroom?",
+        "label": "Mad Hot Ballroom",
+        "answer": "Mad Hot Ballroom",
+        "time": 7.337543725967407,
+        "stats": null
+    },
+    "5a78f753554299078472776e": {
+        "question": "Which musician is older, Philip Labonte or Alexi Laiho?",
+        "label": "Philip Steven Labonte",
+        "answer": "Philip Labonte",
+        "time": 9.080819368362427,
+        "stats": null
+    },
+    "5a863b27554299211dda2ab6": {
+        "question": "Are both Disney Magazine and The Ring still in publication?",
+        "label": "no",
+        "answer": "no",
+        "time": 8.907240390777588,
+        "stats": null
+    },
+    "5a79118755429974737f7962": {
+        "question": "Which band formed first, Awolnation or Foo Fighters?",
+        "label": "Foo Fighters",
+        "answer": "Foo Fighters",
+        "time": 9.12849736213684,
+        "stats": null
+    },
+    "5a866c04554299211dda2b25": {
+        "question": "Are Pterostyrax and Dregea both native to Asia?",
+        "label": "yes",
+        "answer": "unclear",
+        "time": 9.01772928237915,
+        "stats": null
+    },
+    "5ac176555542994d76dcce47": {
+        "question": "What profession does H. L. Mencken and Albert Camus have in common?",
+        "label": "journalist",
+        "answer": "journalism",
+        "time": 9.105985164642334,
+        "stats": null
+    },
+    "5a8781b65542993e715abf8f": {
+        "question": "Are David O. Russell and Tony Gatlif from the same country?",
+        "label": "no",
+        "answer": "no",
+        "time": 7.807425260543823,
+        "stats": null
+    },
+    "5a8ec7cc5542995a26add518": {
+        "question": "Which was published more frequently, Popular Science or Girlfriends?",
+        "label": "Girlfriends",
+        "answer": "unclear",
+        "time": 13.101448774337769,
+        "stats": null
+    },
+    "5a877dd65542993e715abf79": {
+        "question": "Were Halld\u00f3r Laxness and Timothy Leary from the same country?",
+        "label": "no",
+        "answer": "no",
+        "time": 9.428125619888306,
+        "stats": null
+    },
+    "5a8e2ba05542995085b373b8": {
+        "question": "Are the libretto of Tristan und Isolde and Ariane et Barbe-bleue in the same language?",
+        "label": "no",
+        "answer": "no",
+        "time": 16.241529941558838,
+        "stats": null
+    },
+    "5a822a5e55429926c1cdae43": {
+        "question": "What occupations do Charles Burnett and Alan J. Pakula have in common?",
+        "label": "film director, film producer, writer",
+        "answer": "film director, writer, producer",
+        "time": 9.843837022781372,
+        "stats": null
+    },
+    "5a7b1023554299042af8f6c2": {
+        "question": " Which movie did Disney produce first,  The Many Adventures of Winnie the Pooh or Ride a Wild Pony?",
+        "label": "Ride a Wild Pony",
+        "answer": "Ride a Wild Pony",
+        "time": 10.484856843948364,
+        "stats": null
+    },
+    "5a89a02955429946c8d6e975": {
+        "question": "Which was released first, The Climb or Voices of Iraq?",
+        "label": "Voices of Iraq",
+        "answer": "Voices of Iraq",
+        "time": 11.339640378952026,
+        "stats": null
+    },
+    "5a7cdcbf55429907fabef04f": {
+        "question": "Which film came out first, Still Kicking: Six Artistic Women of Project Arts & Longevity or Time Bombs?",
+        "label": "Still Kicking: Six Artistic Women of Project Arts & Longevity",
+        "answer": "Still Kicking: Six Artistic Women of Project Arts & Longevity",
+        "time": 16.411343097686768,
+        "stats": null
+    },
+    "5a7642f7554299109176e6e8": {
+        "question": "who is younger Ulrich Walter or  Luca Parmitano?",
+        "label": "Luca Parmitano",
+        "answer": "Luca Parmitano",
+        "time": 12.498873949050903,
+        "stats": null
+    },
+    "5a8c90db554299653c1aa0bf": {
+        "question": "Is the building located at 200 West Street taller than the one at 888 7th Avenue?",
+        "label": "yes",
+        "answer": "200 West Street",
+        "time": 10.318266153335571,
+        "stats": null
+    },
+    "5ac31456554299741d48a1b4": {
+        "question": "Which band has more members, Lawson or American Music Club?",
+        "label": "Lawson",
+        "answer": "American Music Club",
+        "time": 9.935688018798828,
+        "stats": null
+    },
+    "5ae0a6ea5542993d6555ebe9": {
+        "question": "Are Waste Land and Shikashika both types of drinks?",
+        "label": "no",
+        "answer": "no",
+        "time": 10.480396509170532,
+        "stats": null
+    },
+    "5a8d8eb5554299068b959d3a": {
+        "question": "Which opera has more acts, Parsifal or Manon by Massenet?",
+        "label": "Parsifal",
+        "answer": "Manon by Massenet",
+        "time": 11.766902923583984,
+        "stats": null
+    },
+    "5a83041355429966c78a6ae8": {
+        "question": "Both Ralph Bakshi and B\u00e9la Ga\u00e1l had what roll in film making?",
+        "label": "film director",
+        "answer": "director",
+        "time": 9.841775178909302,
+        "stats": null
+    },
+    "5ab7fa7b5542992aa3b8c897": {
+        "question": "What type of music were vocalists Billie Joe Armstrong and Frank Iero involved with?",
+        "label": "punk rock",
+        "answer": "rock music",
+        "time": 8.339829444885254,
+        "stats": null
+    },
+    "5a7f3f7c55429934daa2fd45": {
+        "question": "Which band has more members, The Futureheads or Marcy Playground?",
+        "label": "The Futureheads",
+        "answer": "The Futureheads",
+        "time": 9.307533979415894,
+        "stats": null
+    },
+    "5a88a1475542997e5c09a646": {
+        "question": "Which genus has more species, Salvia or Arachis?",
+        "label": "Salvia",
+        "answer": "Salvia",
+        "time": 12.982842683792114,
+        "stats": null
+    },
+    "5a8cec13554299441c6b9f7d": {
+        "question": "Do the operas Vanessa and Le roi malgr\u00e9 lui contain that same number of acts?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 8.495699882507324,
+        "stats": null
+    },
+    "5a77321355429972597f1493": {
+        "question": "Which documentary was created first, The Agronomist or American Scary?",
+        "label": "The Agronomist",
+        "answer": "The Agronomist",
+        "time": 9.452146053314209,
+        "stats": null
+    },
+    "5a8a6a2155429930ff3c0dd0": {
+        "question": "Which tennis player is from a country closer to Canada, Ken Flach or Lucie \u0160af\u00e1\u0159ov\u00e1?",
+        "label": "Kenneth Eliot Flach",
+        "answer": "Ken Flach",
+        "time": 12.23839807510376,
+        "stats": null
+    },
+    "5a733c925542991f9a20c6b7": {
+        "question": "The Polar Bear and Daiquiri are both examples of what?",
+        "label": "cocktails",
+        "answer": "cocktail",
+        "time": 11.632285594940186,
+        "stats": null
+    },
+    "5a7e5ec25542991319bc947a": {
+        "question": "Which tennis player is younger, John Newcombe or Kv\u011bta Peschke?",
+        "label": "Kv\u011bta Peschke",
+        "answer": "Kv\u011bta Peschke",
+        "time": 13.676100492477417,
+        "stats": null
+    },
+    "5a79332555429907847277e7": {
+        "question": "Who died first, Bryce Courtenay or Juan Carlos Onetti?",
+        "label": "Juan Carlos Onetti",
+        "answer": "Juan Carlos Onetti",
+        "time": 11.001317977905273,
+        "stats": null
+    },
+    "5ac3d4b6554299204fd21e93": {
+        "question": "Which magazine is focused more on the adult demographic, Jack and Jill or Paper?",
+        "label": "Paper",
+        "answer": "Paper",
+        "time": 8.847922563552856,
+        "stats": null
+    },
+    "5a876f785542993e715abf42": {
+        "question": "Which person, William Blake Herron or John Carpenter, held more diverse roles in the movie industry?",
+        "label": "musician, editor and composer.",
+        "answer": "John Carpenter",
+        "time": 12.920508861541748,
+        "stats": null
+    },
+    "5a8babf05542996e8ac8899e": {
+        "question": "Whose native growing land is more south, Beech or Daviesia?",
+        "label": "Daviesia",
+        "answer": "Daviesia",
+        "time": 13.04917573928833,
+        "stats": null
+    },
+    "5a8a265b5542992d82986ecc": {
+        "question": "Between Frederick King Keller and Ian Schneider, which filmmaker had more diverse job experiences?",
+        "label": "Frederick King Keller",
+        "answer": "Frederick King Keller",
+        "time": 15.742953062057495,
+        "stats": null
+    },
+    "5a77121a5542994aec3b71db": {
+        "question": " Which 1970's film was released first, Charley and the Angel or The Boatniks?",
+        "label": "The Boatniks is a 1970 American comedy film starring Robert Morse, Stefanie Powers, Don Ameche and Phil Silvers.",
+        "answer": "The Boatniks",
+        "time": 11.38794994354248,
+        "stats": null
+    },
+    "5ae207a65542994d89d5b317": {
+        "question": "In which genus number of species are more, Lavatera or Oplismenus?",
+        "label": "Oplismenus",
+        "answer": "Oplismenus",
+        "time": 9.201311588287354,
+        "stats": null
+    },
+    "5a75383a5542996c70cfaeb3": {
+        "question": "Who was born first, Ulf Merbold or Miros\u0142aw Hermaszewski?",
+        "label": "Ulf Dietrich Merbold",
+        "answer": "ERROR",
+        "time": 11.291516065597534,
+        "stats": null
+    },
+    "5ae3fd2c5542995dadf2428f": {
+        "question": "Are Ian Brown and Dee Snider both actors?",
+        "label": "no",
+        "answer": "no",
+        "time": 6.871772289276123,
+        "stats": null
+    },
+    "5a7e37095542995ed0d166d5": {
+        "question": "Which film director is younger, Robert Z. Leonard or Sinclair Hill?",
+        "label": "Sinclair Hill",
+        "answer": "Sinclair Hill",
+        "time": 6.98398494720459,
+        "stats": null
+    },
+    "5adf72d35542992d7e9f9369": {
+        "question": "Are William Kronick and Jon Turteltaub both television writers ?",
+        "label": "no",
+        "answer": "no",
+        "time": 10.333093166351318,
+        "stats": null
+    },
+    "5a876b265542993e715abf33": {
+        "question": "Who was a more acclaimed guitarist Stephen Christian or Joe Gooch?",
+        "label": "and lead guitarist",
+        "answer": "Joe Gooch",
+        "time": 12.260074615478516,
+        "stats": null
+    },
+    "5a84cf175542992a431d1aa2": {
+        "question": "Which band has more constant members, Lilys or Ratatat?",
+        "label": "Ratatat",
+        "answer": "Ratatat",
+        "time": 9.731944561004639,
+        "stats": null
+    },
+    "5a80b0565542996402f6a5f0": {
+        "question": "Which band was formed first, Lit or Adorable?",
+        "label": "Adorable",
+        "answer": "Lit",
+        "time": 12.197481632232666,
+        "stats": null
+    },
+    "5adde3a45542997545bbbdc2": {
+        "question": "Are both Delmer Daves and Jean-Pierre Jeunet film directors?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 10.159632444381714,
+        "stats": null
+    },
+    "5adf39295542992d7e9f92df": {
+        "question": "Which genus has more species, Apium or Elodea?",
+        "label": "Apium",
+        "answer": "Apium",
+        "time": 6.616681098937988,
+        "stats": null
+    },
+    "5a860aa6554299211dda2a45": {
+        "question": "Which publication publishes more frequently, Utne Reader or The New York Enterprise Report?",
+        "label": "The New York Enterprise Report",
+        "answer": "Unclear",
+        "time": 10.785350561141968,
+        "stats": null
+    },
+    "5ae4585c5542996836b02c89": {
+        "question": "Which band has more members Band of Skulls or Live ?",
+        "label": "Live",
+        "answer": "Live",
+        "time": 7.122848987579346,
+        "stats": null
+    },
+    "5ac1bce45542994ab5c67def": {
+        "question": "Are Pothos and Tibouchina Aubl both flowering genus of plants?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 12.587321758270264,
+        "stats": null
+    },
+    "5a87954f5542996e4f308856": {
+        "question": "Which genus has more species, Bactris and Epigaea?",
+        "label": "Bactris",
+        "answer": "The number of species in Bactris and Epigaea genera is not mentioned in the observations.",
+        "time": 12.1074538230896,
+        "stats": null
+    },
+    "5abeb0da5542997ec76fd34b": {
+        "question": "Were both Monkey Kingdom and Anaganaga O Dheerudu connected with Disney?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 14.102688550949097,
+        "stats": null
+    },
+    "5a7521c55542993748c897c6": {
+        "question": "Temagami-Lorrain Mine and Burwash Mine were both mines created during the early 1900s; which one yielded a 16-ton bulk sample of gold ore in 1935?",
+        "label": "Burwash Mine",
+        "answer": "Burwash Mine",
+        "time": 11.441218376159668,
+        "stats": null
+    },
+    "5ab344fc55429969a97a811e": {
+        "question": "Do Bloody Mary and Sidecar share any ingredients in common?",
+        "label": "no",
+        "answer": "no",
+        "time": 9.757126569747925,
+        "stats": null
+    },
+    "5a8ff6635542995651fb5086": {
+        "question": "Who currently has more store locations? Bearno's or Patxi's Chicago Pizza?",
+        "label": "Bearno's Pizza",
+        "answer": "Bearno's",
+        "time": 15.828376531600952,
+        "stats": null
+    },
+    "5ab1ebff5542993be8fa9882": {
+        "question": "Which plant genus has a longer common name, Myrtus or Eustoma?",
+        "label": "Eustoma",
+        "answer": "Eustoma",
+        "time": 13.945451736450195,
+        "stats": null
+    },
+    "5ae376a35542990afbd1e163": {
+        "question": "Are Peter Balakian and James Der Derian both teachers?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 11.855532169342041,
+        "stats": null
+    },
+    "5a79d2fe5542994f819ef0c3": {
+        "question": "Who was born first, Aleksandr Ivanovsky or Arthur Lubin?",
+        "label": "Aleksandr Ivanovsky",
+        "answer": "Aleksandr Ivanovsky",
+        "time": 12.289024353027344,
+        "stats": null
+    },
+    "5a713dcb5542994082a3e6d9": {
+        "question": "What pursuit did both Gevork Minaskanian and George Stambolian have in common?",
+        "label": "American educator, writer,",
+        "answer": "no",
+        "time": 15.44233775138855,
+        "stats": null
+    },
+    "5ae383e15542992f92d822fb": {
+        "question": "Which film is newer, The Apple Dumpling Gang or Heavyweights?",
+        "label": "Heavyweights",
+        "answer": "Heavyweights",
+        "time": 11.693746566772461,
+        "stats": null
+    },
+    "5a8d93bf554299068b959d46": {
+        "question": "Are both Yangzhou and Jiangyan District considered coastal cities?",
+        "label": "no",
+        "answer": "no",
+        "time": 11.636827945709229,
+        "stats": null
+    },
+    "5abe731255429965af743f0e": {
+        "question": "What profession does Matt Thiessen and George Thorogood have in common?",
+        "label": "musician",
+        "answer": "Musician",
+        "time": 6.149621486663818,
+        "stats": null
+    },
+    "5a8c30f6554299240d9c20d1": {
+        "question": "Were The Bomb and Rolling Papers released in the same year?",
+        "label": "yes",
+        "answer": "no",
+        "time": 14.711872100830078,
+        "stats": null
+    },
+    "5ae213de5542997283cd23b9": {
+        "question": "Are Parents and Madame Figaro published in the same country?",
+        "label": "no",
+        "answer": "no",
+        "time": 9.300645112991333,
+        "stats": null
+    },
+    "5a7605f85542994ccc91868d": {
+        "question": "Which battle lasted longer, Battle of H\u00fcrtgen Forest or Battle of Pusan Perimeter?",
+        "label": "Battle of H\u00fcrtgen Forest",
+        "answer": "Battle of H\u00fcrtgen Forest",
+        "time": 8.725996732711792,
+        "stats": null
+    },
+    "5ae07b0155429945ae95935d": {
+        "question": "Which novelist was German, David Guterson or Thomas Mann?",
+        "label": "Paul Thomas Mann",
+        "answer": "Thomas Mann",
+        "time": 8.161410331726074,
+        "stats": null
+    },
+    "5a85a2845542997175ce1fe1": {
+        "question": "Are both Aloinopsis and Eriogonum ice plants?",
+        "label": "no",
+        "answer": "no",
+        "time": 10.71528673171997,
+        "stats": null
+    },
+    "5a8aee2c55429970aeb70338": {
+        "question": "Are both George Duran and Ara Babajian famous chefs?",
+        "label": "no",
+        "answer": "no",
+        "time": 11.65095043182373,
+        "stats": null
+    },
+    "5a7af1a955429931da12c98f": {
+        "question": "Which Karakoram mountain is higher: Distaghil Sar or The Crown",
+        "label": "Distaghil Sar",
+        "answer": "Distaghil Sar",
+        "time": 7.087761402130127,
+        "stats": null
+    },
+    "5a734e6d5542994cef4bc528": {
+        "question": "Which canal is located further North, Beaver and Erie Canal or the Dismal Swamp Canal?",
+        "label": "The Beaver and Erie Canal",
+        "answer": "Beaver and Erie Canal",
+        "time": 9.27744460105896,
+        "stats": null
+    },
+    "5a8091515542996402f6a563": {
+        "question": "Were Sound Team and Dead by Sunrise both formed before 2010? ",
+        "label": "yes",
+        "answer": "yes",
+        "time": 15.174355268478394,
+        "stats": null
+    },
+    "5a7a1b165542996c55b2dd10": {
+        "question": "Who was born first, Connie Willis or Margaret Landon?",
+        "label": "Margaret Landon",
+        "answer": "Margaret Landon",
+        "time": 12.582281112670898,
+        "stats": null
+    },
+    "5a7652435542992d0ec060a5": {
+        "question": "Who was the first Russian composer to make a lasting impression internationally, Alessandro Scarlatti or Pyotr Ilyich Tchaikovsky?",
+        "label": "Pyotr Ilyich Tchaikovsky",
+        "answer": "Pyotr Ilyich Tchaikovsky",
+        "time": 9.598745584487915,
+        "stats": null
+    },
+    "5a7e0c045542995f4f4023c5": {
+        "question": " Who was born first Doug Liman or Saul Metzstein?",
+        "label": "Douglas Eric \"Doug\" Liman",
+        "answer": "Doug Liman",
+        "time": 12.332221031188965,
+        "stats": null
+    },
+    "5a81711455429938b614233e": {
+        "question": "Are both \"Cooking Light\" and \"Vibe\" magazines?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 8.275428295135498,
+        "stats": null
+    },
+    "5a7ed5af5542994959419a84": {
+        "question": "Which band has more members, Kitchens of Distinction or Royal Blood?",
+        "label": "Kitchens of Distinction",
+        "answer": "Kitchens of Distinction",
+        "time": 7.084174156188965,
+        "stats": null
+    },
+    "5a83ed9b55429933447460b8": {
+        "question": "Cistus and Stapelianthus are both forms of what?",
+        "label": "flowering plants",
+        "answer": "flowering plants",
+        "time": 7.722100496292114,
+        "stats": null
+    },
+    "5a844fd35542990548d0b274": {
+        "question": "What occupation did Nicholas Christopher and Roger Ebert share?",
+        "label": "author",
+        "answer": "no",
+        "time": 10.954411029815674,
+        "stats": null
+    },
+    "5a76a0005542993569682c64": {
+        "question": "Which American film director is an advisor for Disney, Rick Ray or John Lasseter?",
+        "label": "John Alan Lasseter",
+        "answer": "John Lasseter",
+        "time": 9.622918844223022,
+        "stats": null
+    },
+    "5a7ec95b55429934daa2fc67": {
+        "question": "Were Gregory La Cava and Mike Judge both actors? ",
+        "label": "no",
+        "answer": "no",
+        "time": 10.44980788230896,
+        "stats": null
+    },
+    "5ac097b05542996f0d89cc18": {
+        "question": "Are Ruggero Deodato from Italy, and Mexican Alejandro Springall, both film directors?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 11.271211862564087,
+        "stats": null
+    },
+    "5ab44ab25542991779162c58": {
+        "question": "What are both Camel Up and Outrage!?",
+        "label": "board game",
+        "answer": "They are different, one is a board game and the other is a film.",
+        "time": 14.402175903320312,
+        "stats": null
+    },
+    "5ac41379554299204fd21ef1": {
+        "question": "Do Czes\u0142aw Mi\u0142osz and Nathalie Sarraute have the same nationality?",
+        "label": "no",
+        "answer": "no",
+        "time": 7.973180294036865,
+        "stats": null
+    },
+    "5abff0645542994516f45539": {
+        "question": "Are Wolfgang Becker and Paul Andrew Williams both film directors?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 17.533827304840088,
+        "stats": null
+    },
+    "5a7199725542994082a3e88f": {
+        "question": "Which publication still relies on paper printing, Human Events or Texas Highways? ",
+        "label": "Texas Highways",
+        "answer": "Texas Highways",
+        "time": 11.751983642578125,
+        "stats": null
+    },
+    "5a80ae105542992bc0c4a7a2": {
+        "question": "What occupation is shared by both Marge Piercy and Richard Aldington?",
+        "label": "poet",
+        "answer": "writer",
+        "time": 13.210440635681152,
+        "stats": null
+    },
+    "5ab9cfb455429970cfb8ebae": {
+        "question": "Are \u00dcber Goober and American Jobs both documentaries about gaming?",
+        "label": "no",
+        "answer": "no",
+        "time": 13.827610492706299,
+        "stats": null
+    },
+    "5ac2f1d1554299218029dba4": {
+        "question": "What is in both the Lithocarpus and Duranta species?",
+        "label": "trees",
+        "answer": "trees and shrubs",
+        "time": 11.62864637374878,
+        "stats": null
+    },
+    "5ac09da45542996f0d89cc1d": {
+        "question": "What is the main flavor of both soft drinks, Solo from Norway, and Sunkist?",
+        "label": "orange",
+        "answer": "Orange",
+        "time": 9.157421350479126,
+        "stats": null
+    },
+    "5a8198565542995ce29dcc13": {
+        "question": "Are Ranger Rick and Tennis both sports magazines?",
+        "label": "no",
+        "answer": "no",
+        "time": 8.164300680160522,
+        "stats": null
+    },
+    "5abbdb195542993f40c73bf1": {
+        "question": "Which is larger, Garajonay National Park or Guadarrama National Park?",
+        "label": "Sierra de Guadarrama National Park",
+        "answer": "Guadarrama National Park",
+        "time": 18.912789344787598,
+        "stats": null
+    },
+    "5a8b7e9c5542995d1e6f13c1": {
+        "question": "Psychopsis and Aubrieta are both genuses of which type of plants?",
+        "label": "flowering plants",
+        "answer": "They are different types of plants.",
+        "time": 6.463143348693848,
+        "stats": null
+    },
+    "5a7e08305542995f4f4023ab": {
+        "question": "Who was born first Al-Karaji or Masatoshi G\u00fcnd\u00fcz Ikeda?",
+        "label": "Ab\u016b Bakr ibn Mu\u1e25ammad ibn al \u1e24usayn al-Karaj\u012b",
+        "answer": "Al-Karaji",
+        "time": 11.455149173736572,
+        "stats": null
+    },
+    "5ab930655542991b5579f12a": {
+        "question": "Are both Dziga Vertov and Roger Donaldson are involved in the film industry?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 12.33517336845398,
+        "stats": null
+    },
+    "5a75e7b255429976ec32bc95": {
+        "question": "Which games, Strange Synergy or Qwirkle,  is a card game published by Steve Jackson Games?",
+        "label": "Strange Synergy",
+        "answer": "Strange Synergy",
+        "time": 11.057417631149292,
+        "stats": null
+    },
+    "5ab66b63554299110f219a0a": {
+        "question": "The Transylvanian Hound and Jack Russell Terrier were originally bred for what activity?",
+        "label": "hunting",
+        "answer": "hunting",
+        "time": 9.938462972640991,
+        "stats": null
+    },
+    "5ae3790f5542992e3233c415": {
+        "question": "Are Leopold Lummerstorfer and Valeria Sarmiento both authors?",
+        "label": "no",
+        "answer": "no",
+        "time": 8.766517877578735,
+        "stats": null
+    },
+    "5a8b036d55429971feec45fe": {
+        "question": "Which is a record producer, Zach Bogosian or Daron Malakian?",
+        "label": "Daron Vartan Malakian",
+        "answer": "Daron Malakian",
+        "time": 10.698351860046387,
+        "stats": null
+    },
+    "5adfed45554299603e4183c5": {
+        "question": "What was the career that Sidney Lumet and Albert Ward share in common?",
+        "label": "screenwriter",
+        "answer": "film directing",
+        "time": 13.797414064407349,
+        "stats": null
+    },
+    "5adbf84555429947ff17387c": {
+        "question": "Are both Adolfo Bioy Casares and James Norman Hall Argentinian authors?",
+        "label": "no",
+        "answer": "no",
+        "time": 10.413208484649658,
+        "stats": null
+    },
+    "5a84fea85542994c784ddabf": {
+        "question": "What type of sport does Sergio Casal and Manuel Orantes have in common?",
+        "label": "tennis",
+        "answer": "tennis",
+        "time": 14.014101505279541,
+        "stats": null
+    },
+    "5abec2ca5542997719eab5b9": {
+        "question": "Which canal began operating first, the Carondelet Canal or the Miami and Erie Canal?",
+        "label": "Carondelet Canal",
+        "answer": "Carondelet Canal",
+        "time": 16.232309818267822,
+        "stats": null
+    },
+    "5ab3e577554299233954ffe3": {
+        "question": " Jaroslav Seifert and John McGahern were both part of what shared profession? ",
+        "label": "writer",
+        "answer": "writer",
+        "time": 11.174367904663086,
+        "stats": null
+    },
+    "5abe19895542991f661060c2": {
+        "question": "Liaocheng and Shayang County are both located in which country?",
+        "label": "China",
+        "answer": "China",
+        "time": 6.335772514343262,
+        "stats": null
+    },
+    "5a72908f5542994cef4bc33b": {
+        "question": "Which musician, Ciaran Gribbin or Brett Scallions, is a member of the post-grunge band Fuel?",
+        "label": "Brett Allen Scallions",
+        "answer": "Brett Scallions",
+        "time": 8.381491422653198,
+        "stats": null
+    },
+    "5adf9d135542995534e8c817": {
+        "question": "Are Des Moines International Airport and Grand Canyon National Park Airport both major airline hubs?",
+        "label": "no",
+        "answer": "no",
+        "time": 11.313138484954834,
+        "stats": null
+    },
+    "5ae518ae5542993aec5ec13c": {
+        "question": "Were the documentaries  One Big Hapa Family and A Film Unfinished directed by the same person?",
+        "label": "no",
+        "answer": "no",
+        "time": 11.561973094940186,
+        "stats": null
+    },
+    "5adc69ef554299438c868daf": {
+        "question": "Are Kalenderhane Mosque and Galata Bridge both located in Istanbul?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 8.585142850875854,
+        "stats": null
+    },
+    "5a8b544855429950cd6afcae": {
+        "question": "Which animated film was released first, The Country Bears or The Wild?",
+        "label": "The Country Bears",
+        "answer": "The Country Bears",
+        "time": 9.70502233505249,
+        "stats": null
+    },
+    "5a8518a75542994c784ddaf7": {
+        "question": "What type of structure does 277 Park Avenue and 126 Madison Avenue have in common?",
+        "label": "building",
+        "answer": "skyscrapers",
+        "time": 14.109468221664429,
+        "stats": null
+    },
+    "5a79e3925542994bb9457130": {
+        "question": "Name three best sellers from Arthur Hailey that were released before Donna Tartt was born.",
+        "label": "Hotel\" (1965), \"Airport\" (1968), \"Wheels\" (1971)",
+        "answer": "None",
+        "time": 13.544059753417969,
+        "stats": null
+    },
+    "5adbf34955429947ff173862": {
+        "question": "Is Karjiang a mountain and Sherpi Kangri a mountain peak?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 9.721679210662842,
+        "stats": null
+    },
+    "5ae3fd195542995dadf2428d": {
+        "question": "Are Jim Lindberg and Alison Moyet singers of the same nationality?",
+        "label": "no",
+        "answer": "no",
+        "time": 9.054345607757568,
+        "stats": null
+    },
+    "5abaad5855429901930fa88f": {
+        "question": "How many more singles titles did Kim Warwick win than Jorge Lozano?",
+        "label": "three singles titles",
+        "answer": "3",
+        "time": 7.016874313354492,
+        "stats": null
+    },
+    "5a7a845755429941d65f2684": {
+        "question": "Which film was released more recently, Make Mine Music or Old Dogs?",
+        "label": "Old Dogs",
+        "answer": "Old Dogs",
+        "time": 9.520793914794922,
+        "stats": null
+    },
+    "5a8141cc55429938b6142316": {
+        "question": "Are both Cynthia Mort and George Archainbaud American?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 7.9366185665130615,
+        "stats": null
+    },
+    "5a8bde565542995d1e6f1454": {
+        "question": "Which airport Grand Forks International Airport or El Paso International Airport is closer to their town ?",
+        "label": "El Paso International Airport",
+        "answer": "El Paso International Airport",
+        "time": 10.414841890335083,
+        "stats": null
+    },
+    "5ae12fcf5542990adbacf72c": {
+        "question": "Astro Boy and The Secret of Kells share which genre of film?",
+        "label": "Animation",
+        "answer": "animation",
+        "time": 7.602349042892456,
+        "stats": null
+    },
+    "5ade858a55429975fa854eea": {
+        "question": "What sport is played by both Justin Gimelstob and Angelique Kerber?",
+        "label": "tennis",
+        "answer": "tennis",
+        "time": 13.852274894714355,
+        "stats": null
+    },
+    "5abeafbb5542997ec76fd347": {
+        "question": "Between the documentaries The Staten Island Catapult and Frida, en trotj\u00e4narinna which came first?",
+        "label": "Frida, en trotj\u00e4narinna",
+        "answer": "The Staten Island Catapult",
+        "time": 11.007677793502808,
+        "stats": null
+    },
+    "5a8638945542994775f6072d": {
+        "question": "Are Sutera and Rhodotypos both types of shrub?",
+        "label": "no",
+        "answer": "no",
+        "time": 10.305046081542969,
+        "stats": null
+    },
+    "5a7153d05542994082a3e7dc": {
+        "question": "Which Istanbul mosque is unique for retaining a Baroque style of architecture, the Bayezid II Mosque or the Nusretiye Mosque?",
+        "label": "Nusretiye Mosque",
+        "answer": "Nusretiye Mosque",
+        "time": 16.353744506835938,
+        "stats": null
+    },
+    "5ae249925542994d89d5b3c1": {
+        "question": "Which player Richard Gasquet or Jim Pugh  has won more mixed double Grand Slam titles ?",
+        "label": "Jim Pugh",
+        "answer": "Jim Pugh",
+        "time": 9.033243417739868,
+        "stats": null
+    },
+    "5ac170af5542994d76dcce20": {
+        "question": "Which of the singers has more things to be known for, Greg Puciato or Syd Barrett?",
+        "label": "Gregory John \"Greg\" Puciato",
+        "answer": "Greg Puciato",
+        "time": 16.43273377418518,
+        "stats": null
+    },
+    "5a89ab1355429946c8d6e996": {
+        "question": "Is Carnegie Hall Tower located in the same city as Staten Island?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 11.867351770401001,
+        "stats": null
+    },
+    "5a7319bc5542992359bc3235": {
+        "question": "Who lived longer, Leonid Khachiyan or Nikolai Lobachevsky?",
+        "label": "Nikolai Ivanovich Lobachevsky",
+        "answer": "Nikolai Lobachevsky",
+        "time": 11.743506908416748,
+        "stats": null
+    },
+    "5a7fa08d55429969796c1af7": {
+        "question": "Were the board games, Clans and Drunter und Dr\u00fcber, both created by Leo Colovini?",
+        "label": "Drunter und Dr\u00fcber is a multiplayer board game invented by Klaus Teuber",
+        "answer": "no",
+        "time": 11.165287733078003,
+        "stats": null
+    },
+    "5a78e9d155429970f5fffdcc": {
+        "question": "Was Pepper Keenan or Rob Parissi born first?",
+        "label": "Robert \"Rob\" Parissi",
+        "answer": "Rob Parissi",
+        "time": 13.29255986213684,
+        "stats": null
+    },
+    "5a8adc935542992d82986fb0": {
+        "question": "Which is headquarter farther south, Jet's Pizza or Chuck E. Cheese's?",
+        "label": "Chuck E. Cheese's",
+        "answer": "Jet's Pizza",
+        "time": 10.65286374092102,
+        "stats": null
+    },
+    "5ac156d05542994ab5c67ce9": {
+        "question": "Was Cars 2 released by the same company which used songs written by Lin-Manuel Miranda in another of its movies?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 8.18273401260376,
+        "stats": null
+    },
+    "5adcc9f35542990d50227d20": {
+        "question": "Which US Supreme court case involved a waiver of right to counsel Planned Parenthood v. Casey or Montejo v. Louisiana?",
+        "label": "Montejo v. Louisiana",
+        "answer": "Montejo v. Louisiana",
+        "time": 10.479543924331665,
+        "stats": null
+    },
+    "5ae1d656554299234fd04322": {
+        "question": "Are Greater Swiss Mountain Dog and Harrier both dog breeds?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 8.967715978622437,
+        "stats": null
+    },
+    "5adf39d45542992d7e9f92e5": {
+        "question": "Davy Crockett, King of the Wild Frontier:and Herbie Rides Again were both by which company?",
+        "label": "Disney",
+        "answer": "Walt Disney Productions",
+        "time": 10.937602519989014,
+        "stats": null
+    },
+    "5ac294b955429921a00aafd0": {
+        "question": "Which magazine was created first, Macworld or Soaps In Depth?",
+        "label": "Macworld",
+        "answer": "Macworld",
+        "time": 6.3528733253479,
+        "stats": null
+    },
+    "5a7bcbc8554299294a54aae2": {
+        "question": "Which school is named after a person, Sir Syed University of Engineering and Technology or Manhattan College? ",
+        "label": "Sir Syed University of Engineering and Technology",
+        "answer": "Sir Syed University of Engineering and Technology",
+        "time": 12.234724044799805,
+        "stats": null
+    },
+    "5a840e395542992ef85e239d": {
+        "question": "Are both The Straight Story and Frozen films of the same genre?",
+        "label": "no",
+        "answer": "no",
+        "time": 8.921355247497559,
+        "stats": null
+    },
+    "5a7b24fe55429931da12c9f7": {
+        "question": "Which dog breed has more derivative breeds from the original, German Spitz or Norfolk Spaniel?",
+        "label": "German Spitz",
+        "answer": "German Spitz",
+        "time": 17.448812007904053,
+        "stats": null
+    },
+    "5ade15a45542997545bbbe46": {
+        "question": "Are both Upper Crust Pizzeria and Eatza Pizza restaurants?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 11.931736946105957,
+        "stats": null
+    },
+    "5abf2e605542993fe9a41de4": {
+        "question": "In between Atsushi Ogata and Ralph Smart who graduated from Harvard College?",
+        "label": "Atsushi Ogata",
+        "answer": "Atsushi Ogata",
+        "time": 9.726891279220581,
+        "stats": null
+    },
+    "5a8675b1554299211dda2b44": {
+        "question": "Are Black and New Found Glory from the same country?",
+        "label": "no",
+        "answer": "Insufficient information to determine",
+        "time": 10.776211261749268,
+        "stats": null
+    },
+    "5abb7ea4554299642a094a96": {
+        "question": "When was the earliest film of High School and The Thorn in the Heart shot?",
+        "label": "1968",
+        "answer": "2009",
+        "time": 11.90766453742981,
+        "stats": null
+    },
+    "5aba85335542994dbf01992d": {
+        "question": "Where operation Operation Dragoon and Battle of Cold Harbor fought during to different wars?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 9.72674036026001,
+        "stats": null
+    },
+    "5adbe1c5554299438c868cc4": {
+        "question": "Was 9/11: Press for Truth released prior to Chasing Coral?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 16.00855565071106,
+        "stats": null
+    },
+    "5a7643675542994ccc918747": {
+        "question": "Who was born first D. Ross Lederman or Stefan Ruzowitzky?",
+        "label": "David Ross Lederman",
+        "answer": "D. Ross Lederman",
+        "time": 10.940641403198242,
+        "stats": null
+    },
+    "5a88696b554299206df2b25b": {
+        "question": "What type of profession does Chris Jericho and Gary Barlow have in common?",
+        "label": "musician",
+        "answer": "Musician",
+        "time": 10.70555591583252,
+        "stats": null
+    },
+    "5ab9aed855429970cfb8eb6d": {
+        "question": "Do the bands named Phoenix and Shearwater specialize in the exact same genre?",
+        "label": "no",
+        "answer": "no",
+        "time": 15.52173399925232,
+        "stats": null
+    },
+    "5a7e1cad55429965cec5ea75": {
+        "question": "Was Pocahontas made before Born in China?",
+        "label": "yes",
+        "answer": "Pocahontas",
+        "time": 12.761789321899414,
+        "stats": null
+    },
+    "5ab67c3f55429954757d32f9": {
+        "question": "Are Maro Ajemian and Patricia Field both pianists?",
+        "label": "no",
+        "answer": "no",
+        "time": 8.753375053405762,
+        "stats": null
+    },
+    "5a7da0de5542990b8f5039d7": {
+        "question": "Who was born earlier, Robert Mulligan or James Foley?",
+        "label": "Robert Patrick Mulligan",
+        "answer": "Robert Mulligan",
+        "time": 9.358989953994751,
+        "stats": null
+    },
+    "5a8baf4b5542996e8ac889c5": {
+        "question": "Which magazine has more issues each month, In These Times or Multinational Monitor?",
+        "label": "Multinational Monitor",
+        "answer": "Multinational Monitor",
+        "time": 13.57849907875061,
+        "stats": null
+    },
+    "5abf08985542997719eab625": {
+        "question": "Which band was formed first, Circus Diablo or Magic Dirt?",
+        "label": "Magic Dirt",
+        "answer": "Magic Dirt",
+        "time": 7.242954969406128,
+        "stats": null
+    },
+    "5a7b66135542997c3ec97145": {
+        "question": "Which 2008 American documentary film, Pond Hockey or I.O.U.S.A., delves into fiscal issues?",
+        "label": "I.O.U.S.A.",
+        "answer": "I.O.U.S.A.",
+        "time": 15.490986585617065,
+        "stats": null
+    },
+    "5ae0819155429924de1b70ea": {
+        "question": "Which documentary Hacking Democracy or The Memory of Justice was produced first ?",
+        "label": "The Memory of Justice",
+        "answer": "The Memory of Justice",
+        "time": 12.828135013580322,
+        "stats": null
+    },
+    "5a739323554299623ed4abff": {
+        "question": "Which famous mine was in service first, the Salmita Mine or the Kanichee Mine?",
+        "label": "Kanichee Mine",
+        "answer": "Kanichee Mine",
+        "time": 11.657508373260498,
+        "stats": null
+    },
+    "5abc7bf75542993a06baf8f0": {
+        "question": "Which has more species Laurus or Liriodendron?",
+        "label": "Laurus",
+        "answer": "Laurus",
+        "time": 10.781041383743286,
+        "stats": null
+    },
+    "5a8762205542996e4f3087b8": {
+        "question": "are Tinto Brass and Baltasar Korm\u00e1kur both from the same country ?",
+        "label": "no",
+        "answer": "no",
+        "time": 9.794797420501709,
+        "stats": null
+    },
+    "5a9072dd5542990a98493656": {
+        "question": "What type of music did Dave Wyndorf and Poly Styrene perform as part of their work in Monster Magnet and X-Ray Spex?",
+        "label": "rock",
+        "answer": "rock and punk rock",
+        "time": 15.316789388656616,
+        "stats": null
+    },
+    "5a77474855429972597f14e4": {
+        "question": "Who released their debut album first, Daisy Chainsaw or Generationals?",
+        "label": "Daisy Chainsaw",
+        "answer": "Daisy Chainsaw",
+        "time": 12.418034553527832,
+        "stats": null
+    },
+    "5a8b5b1c5542995d1e6f1387": {
+        "question": "Are Aladdin and Song of the South produced by the same company?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 10.396648406982422,
+        "stats": null
+    },
+    "5abc095c5542993f40c73c5d": {
+        "question": "Which company is based in Kentucky, Vocelli Pizza or Fazoli's?",
+        "label": "Fazoli's",
+        "answer": "Fazoli's",
+        "time": 9.541419267654419,
+        "stats": null
+    },
+    "5ac1b8cd55429963665198fc": {
+        "question": "Who won more awards, Brothers Quay or Jake Kasdan?",
+        "label": "Brothers Quay",
+        "answer": "Brothers Quay",
+        "time": 10.476866483688354,
+        "stats": null
+    },
+    "5a8dad37554299068b959d94": {
+        "question": "Both Phaedranassa and Mitella are considered the classification of what level of species?",
+        "label": "genus",
+        "answer": "genus",
+        "time": 9.466999769210815,
+        "stats": null
+    },
+    "5ac560235542993e66e82396": {
+        "question": "Sarah Price and Rob Schneider are both what profession? ",
+        "label": "director",
+        "answer": "no",
+        "time": 15.551536083221436,
+        "stats": null
+    },
+    "5a8dfae55542995085b3736b": {
+        "question": "Cranium and Twin Tin Bots are both what?",
+        "label": "games",
+        "answer": "no",
+        "time": 14.193234920501709,
+        "stats": null
+    },
+    "5ac002705542996f0d89cb05": {
+        "question": "In what administrative category are the cities of Beitun, Xinjiang and Wafangdian?",
+        "label": "county-level",
+        "answer": "County-level cities",
+        "time": 9.202790260314941,
+        "stats": null
+    },
+    "5a8fb3af5542997ba9cb32ee": {
+        "question": "Are Out Traveler and Reader's Digest both magazines?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 7.9361572265625,
+        "stats": null
+    },
+    "5adf3a4f5542992d7e9f92ec": {
+        "question": "Which musician is from Europe, King Diamond or Bob Marley?",
+        "label": "King Diamond",
+        "answer": "King Diamond",
+        "time": 8.475480794906616,
+        "stats": null
+    },
+    "5a7bbcd65542997c3ec97268": {
+        "question": "who is older, Maria Sharapova or Chanda Rubin?",
+        "label": "Chanda Rubin (born February 18, 1976)",
+        "answer": "Chanda Rubin",
+        "time": 10.368593215942383,
+        "stats": null
+    },
+    "5a77a7db5542995d8318124d": {
+        "question": "Which author was born first, Josephine Tey or Julia Peterkin?",
+        "label": "Julia Peterkin",
+        "answer": "Julia Peterkin",
+        "time": 9.692115068435669,
+        "stats": null
+    },
+    "5a713fb15542994082a3e6f0": {
+        "question": "Did the board game San Marco or About Time come out first?",
+        "label": "San Marco",
+        "answer": "San Marco",
+        "time": 10.504985332489014,
+        "stats": null
+    },
+    "5ab9d13455429939ce03dc31": {
+        "question": "Margaret Wilson and Edna St. Vincent Millay have both been given what?",
+        "label": "Pulitzer Prize",
+        "answer": "Pulitzer Prize",
+        "time": 13.678061962127686,
+        "stats": null
+    },
+    "5add95035542990dbb2f7e77": {
+        "question": "Cherie Currie and Steve Augeri were both what?",
+        "label": "American musician",
+        "answer": "lead singers of rock bands",
+        "time": 10.8931565284729,
+        "stats": null
+    },
+    "5adea0c5554299728e26c776": {
+        "question": "Are both Helen Dunmore and M. P. Shiel of West Indian descent?",
+        "label": "no",
+        "answer": "no",
+        "time": 10.641145944595337,
+        "stats": null
+    },
+    "5adf099a5542992d7e9f927f": {
+        "question": "Which airport is located in the state of Georgia, Brunswick Golden Isles Airport or Lafayette Regional Airport?",
+        "label": "Brunswick Golden Isles Airport",
+        "answer": "Brunswick Golden Isles Airport",
+        "time": 10.831222772598267,
+        "stats": null
+    },
+    "5ae3c5535542991a06ce9a20": {
+        "question": "Radio shack made a line of computers in the 1980's which was marketed as the TRS-80 Color Computer or the Interact Home Computer?",
+        "label": "TRS-80 Color Computer",
+        "answer": "TRS-80 Color Computer",
+        "time": 11.115939378738403,
+        "stats": null
+    },
+    "5adcceda5542990d50227d31": {
+        "question": "George Gershwin is an American Composer and Judith Weir is a composer from which country?",
+        "label": "a British composer",
+        "answer": "Britain",
+        "time": 7.5856773853302,
+        "stats": null
+    },
+    "5ac173295542994ab5c67d45": {
+        "question": "What occupation do Graham Streeter and Geir Hansteen J\u00f6rgensen both have in common.",
+        "label": "film director",
+        "answer": "film director",
+        "time": 13.61257266998291,
+        "stats": null
+    },
+    "5a7e3a3f5542995ed0d166dd": {
+        "question": "Which singer is younger, Kenny Greene or Billy Idol?",
+        "label": "Kenny Greene",
+        "answer": "Kenny Greene",
+        "time": 5.559955596923828,
+        "stats": null
+    },
+    "5ac46bb05542991943173983": {
+        "question": "Are both Schweizerischer Niederlaufhund and Portuguese Podengo dog breeds from Portugal?",
+        "label": "no",
+        "answer": "no",
+        "time": 8.864948749542236,
+        "stats": null
+    },
+    "5ae0f97a5542997b2ef7d0c1": {
+        "question": "Which University was founded earlier, Pennsylvania State University or Queen's University?",
+        "label": "Queen's University",
+        "answer": "Pennsylvania State University",
+        "time": 14.945964813232422,
+        "stats": null
+    },
+    "5a7e14505542995ed0d16685": {
+        "question": "Which canal is located farther east, Champlain Canal or Warren County Canal?",
+        "label": "Champlain Canal",
+        "answer": "Champlain Canal",
+        "time": 10.202401876449585,
+        "stats": null
+    },
+    "5a8e36835542995085b373e2": {
+        "question": "Are Anja Salomonowitz and Rod Lurie both directors?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 8.221317052841187,
+        "stats": null
+    },
+    "5adf50c05542992d7e9f931e": {
+        "question": "Are both The Sundays and The Radio Dept. dream pop bands? ",
+        "label": "no",
+        "answer": "no",
+        "time": 11.765585899353027,
+        "stats": null
+    },
+    "5aba943c554299232ef4a33e": {
+        "question": "Are Florida Atlantic University and Cleveland State University both colleges in the US?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 11.040630578994751,
+        "stats": null
+    },
+    "5ae33fa95542990afbd1e0f2": {
+        "question": "Did Minersville School District v. Gobitis and Gravel v. United States occur in the same decade?",
+        "label": "no",
+        "answer": "no",
+        "time": 12.240878105163574,
+        "stats": null
+    },
+    "5a8d7edc55429941ae14dfdc": {
+        "question": "Are San Antonio International Airport and Yakutat Airport in the same country?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 10.572992086410522,
+        "stats": null
+    },
+    "5a7aa0a55542990198eaf165": {
+        "question": "Who was born first, Sathish Kalathil or Jacques Feyder?",
+        "label": "Jacques Feyder",
+        "answer": "Jacques Feyder",
+        "time": 8.449726343154907,
+        "stats": null
+    },
+    "5ae3f4fe5542995ad6573ce8": {
+        "question": "Are the genera Gordonia and Osbeckia in the same family?",
+        "label": "no",
+        "answer": "no",
+        "time": 8.786237001419067,
+        "stats": null
+    },
+    "5abd1daa55429933744ab72e": {
+        "question": "Do Singapore Sling and Fish House Punch both contain alcohol?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 10.240478754043579,
+        "stats": null
+    },
+    "5ac3044f5542990b17b154dc": {
+        "question": " Danny Jones and Aleksi Sihvonen are both what?",
+        "label": "vocalist",
+        "answer": "singers and musicians in bands",
+        "time": 9.259934663772583,
+        "stats": null
+    },
+    "5ac23f5655429951e9e684d9": {
+        "question": "Both the Pulandian District and Hailar District are located within which country?",
+        "label": "China",
+        "answer": "China",
+        "time": 9.788418054580688,
+        "stats": null
+    },
+    "5adbe0df554299438c868cc0": {
+        "question": "Which writer was ordained to priesthood, W. Somerset Maugham or Thomas Merton?",
+        "label": "Thomas Merton",
+        "answer": "Thomas Merton",
+        "time": 8.728147506713867,
+        "stats": null
+    },
+    "5a7dcdea5542990b8f503abc": {
+        "question": "Who is younger, Tony Roche or Ren\u00e1ta Tomanov\u00e1?",
+        "label": "Ren\u00e1ta Tomanov\u00e1",
+        "answer": "Tony Roche",
+        "time": 12.656877994537354,
+        "stats": null
+    },
+    "5abe91895542993f32c2a168": {
+        "question": "Did the Sandy and Beaver Canal remain operational until a later date than the Los Angeles Aqueduct?",
+        "label": "no",
+        "answer": "yes",
+        "time": 9.698959589004517,
+        "stats": null
+    },
+    "5a8f799d55429918e830d22d": {
+        "question": "Which genus has the most number of species, Myrsine or Styrax?",
+        "label": "Myrsine",
+        "answer": "Myrsine",
+        "time": 8.268233299255371,
+        "stats": null
+    },
+    "5a734acf5542991f9a20c6ec": {
+        "question": "Which singer is younger, Shirley Manson or Jim Kerr?",
+        "label": "Shirley Ann Manson",
+        "answer": "Shirley Manson",
+        "time": 9.689285039901733,
+        "stats": null
+    },
+    "5adff2aa554299603e4183d0": {
+        "question": "What career did Markus Feehily and Bobby Fuller have in common?",
+        "label": "songwriter",
+        "answer": "singing",
+        "time": 10.754626750946045,
+        "stats": null
+    },
+    "5ac046c65542996f0d89cb71": {
+        "question": "Do the genuses Catopsis and Crataegus belong to the same family? ",
+        "label": "no",
+        "answer": "no",
+        "time": 9.39632511138916,
+        "stats": null
+    },
+    "5a8501915542997175ce1f5a": {
+        "question": "Are PC Magazine and Sculptural Pursuit both technology publications?",
+        "label": "no",
+        "answer": "no",
+        "time": 10.62769889831543,
+        "stats": null
+    },
+    "5ae4cda05542990ba0bbb148": {
+        "question": "Why is Serena Williams more accomplished than Mariaan de Swardt in her tennis career?",
+        "label": "the world No. 1 for the first time",
+        "answer": "Serena Williams has won more major singles titles and has been ranked world No.1 in singles for a longer period.",
+        "time": 21.381953954696655,
+        "stats": null
+    },
+    "5ae1412a55429920d523434c": {
+        "question": "Are Prol\u00f3gica CP-400 and Atari ST both personal computers?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 8.693611860275269,
+        "stats": null
+    },
+    "5abb61735542993f40c73aef": {
+        "question": "Who had more of their English novels turned into Oscar-nominated films, Raja Rao or Pat Conroy?",
+        "label": "Two of his novels, \"The Prince of Tides\" and \"The Great Santini\", were made into Oscar-nominated films.",
+        "answer": "Pat Conroy",
+        "time": 7.8172338008880615,
+        "stats": null
+    },
+    "5a8481945542997175ce1ed3": {
+        "question": "Are Steve Perry and Leslie West both singers?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 6.568594217300415,
+        "stats": null
+    },
+    "5add44f35542997545bbbd0c": {
+        "question": "Which movie was based on a book, The Haunted Mansion orThe Greatest Game Ever Played? ",
+        "label": "The Greatest Game Ever Played",
+        "answer": "The Greatest Game Ever Played",
+        "time": 11.906812906265259,
+        "stats": null
+    },
+    "5ab60aec554299110f2199c3": {
+        "question": "What type of writing did both Richard Harding Davis and Harry Stephen Keeler write?",
+        "label": "fiction",
+        "answer": "fiction",
+        "time": 11.388123750686646,
+        "stats": null
+    },
+    "5abb189e5542996cc5e49fa4": {
+        "question": "In between Remember the Titans and My Favorite Martian which film film grossed $36.8 million domestically?",
+        "label": "My Favorite Martian",
+        "answer": "cannot determine from the given observations",
+        "time": 12.43413233757019,
+        "stats": null
+    },
+    "5a838eba5542992ef85e22fe": {
+        "question": "Which documentary film was released first Tar Creek or Volcanic Sprint?",
+        "label": "Volcanic Sprint",
+        "answer": "Volcanic Sprint",
+        "time": 11.519556045532227,
+        "stats": null
+    },
+    "5a888c9d5542997e5c09a612": {
+        "question": "Who is from farther west, Halestorm or Audioslave?",
+        "label": "Audioslave",
+        "answer": "Audioslave",
+        "time": 9.076874732971191,
+        "stats": null
+    },
+    "5a7652785542992db9473760": {
+        "question": "Which of the following is known for his work \"Good Bye Lenin!\" in 2003: Vladimir Danilevich or Wolfgang Becker?",
+        "label": "Wolfgang Becker",
+        "answer": "Wolfgang Becker",
+        "time": 13.855519771575928,
+        "stats": null
+    },
+    "5ae0ba15554299603e41844d": {
+        "question": "What plant has about 40 species native to Asia, Manglietia or Abronia?",
+        "label": "Manglietia",
+        "answer": "Manglietia",
+        "time": 11.74033236503601,
+        "stats": null
+    },
+    "5ae2138c5542997283cd23b7": {
+        "question": "Are Villa Paletti and Betrayal at House on the Hill both board games?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 9.13580322265625,
+        "stats": null
+    },
+    "5a7e3b585542995ed0d166df": {
+        "question": "Which film was released first, Home on the Range or Pete's Dragon?",
+        "label": "Home on the Range",
+        "answer": "Pete's Dragon",
+        "time": 14.372843742370605,
+        "stats": null
+    },
+    "5ae54b3d5542990ba0bbb260": {
+        "question": "Are both American Foxhound and L\u00f6wchen types of Foxhounds?",
+        "label": "no",
+        "answer": "no",
+        "time": 7.679329872131348,
+        "stats": null
+    },
+    "5a7299e75542991f9a20c524": {
+        "question": "What movie was released at a later date, My Dog Tulip or Monsters vs. Aliens?",
+        "label": "Monsters vs. Aliens",
+        "answer": "unclear",
+        "time": 10.137283325195312,
+        "stats": null
+    },
+    "5a7fb1e55542995d8a8ddef7": {
+        "question": "Which documentary film premiered first, Grizzly Man or Pray the Devil Back to Hell?",
+        "label": "Grizzly Man",
+        "answer": "Grizzly Man",
+        "time": 11.265021085739136,
+        "stats": null
+    },
+    "5ab84dea55429934fafe6d4f": {
+        "question": "Were H. G. Wells and Rub\u00e9n Dar\u00edo both English?",
+        "label": "no",
+        "answer": "no",
+        "time": 12.617321014404297,
+        "stats": null
+    },
+    "5abe765a55429976d4830b1f": {
+        "question": "Who has won more olympic medals: Angelique Kerber or Am\u00e9lie Mauresmo?",
+        "label": "Am\u00e9lie Simone Mauresmo",
+        "answer": "They have won the same number of Olympic medals",
+        "time": 10.844738483428955,
+        "stats": null
+    },
+    "5a7c64bc5542996dd594b913": {
+        "question": "Who is older, Simon Neil or Michael McKean?",
+        "label": "Michael John McKean",
+        "answer": "Michael McKean",
+        "time": 11.920942306518555,
+        "stats": null
+    },
+    "5ab804065542990e739ec7e0": {
+        "question": "Are the bands \"Black Grape\" and \"Balance and Composure\" from the same country?",
+        "label": "no",
+        "answer": "no",
+        "time": 11.219841480255127,
+        "stats": null
+    },
+    "5a7e21165542995ed0d166a2": {
+        "question": "Who is younger, Billy Idol or Ray Wilson?",
+        "label": "Raymond Wilson",
+        "answer": "Ray Wilson",
+        "time": 11.590067148208618,
+        "stats": null
+    },
+    "5ab1c6c5554299722f9b4c67": {
+        "question": "Boulevardier and Earthquake are cocktails, one of which has a french nickname of what?",
+        "label": "The Tremblement de Terre",
+        "answer": "Boulevardier",
+        "time": 10.162056684494019,
+        "stats": null
+    },
+    "5ab2a01d5542992953946778": {
+        "question": "What kind of novelists were both Robert Stone and Truman Capote?",
+        "label": "American",
+        "answer": "American novelists",
+        "time": 9.689011812210083,
+        "stats": null
+    },
+    "5a7345185542992359bc32cb": {
+        "question": "Which continent are both magazines, Sayidaty and Closer published?",
+        "label": "Europe",
+        "answer": "no",
+        "time": 8.922040224075317,
+        "stats": null
+    },
+    "5adde6535542990dbb2f7ef9": {
+        "question": "Which documentary was filmed first, Almost Sunrise or Hail! Hail! Rock 'n' Roll?",
+        "label": "Hail! Hail! Rock 'n' Roll",
+        "answer": "Hail! Hail! Rock 'n' Roll",
+        "time": 11.575427770614624,
+        "stats": null
+    },
+    "5ac19f405542991316484b5b": {
+        "question": "Pandikona and Berger Blanc Suisse are both what kinds of animals?",
+        "label": "dogs",
+        "answer": "dogs",
+        "time": 12.982142686843872,
+        "stats": null
+    },
+    "5ac00278554299012d1db56b": {
+        "question": "What profession do Raj Kapoor and Mike Cahill share?",
+        "label": "director",
+        "answer": "filmmaking",
+        "time": 10.960992097854614,
+        "stats": null
+    },
+    "5a859a755542992a431d1b6d": {
+        "question": "Who was considered more iconic, Charlie Chaplin or Bruce Bilson?",
+        "label": "Charles Spencer \"Charlie\" Chaplin",
+        "answer": "Charlie Chaplin",
+        "time": 8.807864665985107,
+        "stats": null
+    },
+    "5a81d54a55429903bc27b9d4": {
+        "question": "Were Jeff Martin and Kyle Patrick both in The Click Five?",
+        "label": "no",
+        "answer": "no",
+        "time": 12.826502799987793,
+        "stats": null
+    },
+    "5a74feb75542996c70cfae6d": {
+        "question": "Which man, Ibn Tufail or Ali Qushji, is best known for the development of astronomical physics independent from natural philosophy?",
+        "label": "Ali Qushji",
+        "answer": "Ali Qushji",
+        "time": 12.667762517929077,
+        "stats": null
+    },
+    "5a83f07455429933447460be": {
+        "question": "Are Brainerd Lakes Regional Airport and Sawyer International Airport located in Europe?",
+        "label": "no",
+        "answer": "no",
+        "time": 9.000999212265015,
+        "stats": null
+    },
+    "5a7e22ed5542995ed0d166a7": {
+        "question": "What writer is older, Bernard Malamud or Lois McMaster Bujold?",
+        "label": "Bernard Malamud",
+        "answer": "Bernard Malamud",
+        "time": 9.085104703903198,
+        "stats": null
+    },
+    "5ac519a95542994611c8b38b": {
+        "question": "Chris Cornell and Godsmack are both American rock icons, who is the founder of Godsmack?",
+        "label": "Sully Erna",
+        "answer": "Sully Erna",
+        "time": 9.718109607696533,
+        "stats": null
+    },
+    "5ac3d90b5542995c82c4ac4b": {
+        "question": "What type of games are both Castle Risk and Elfenland?",
+        "label": "board game",
+        "answer": "board games",
+        "time": 6.5845935344696045,
+        "stats": null
+    },
+    "5adce3b95542990d50227d56": {
+        "question": "What profession is shared by both Monty Banks and George Seaton?",
+        "label": "film director",
+        "answer": "film director and producer",
+        "time": 10.694603681564331,
+        "stats": null
+    },
+    "5a79093955429974737f794b": {
+        "question": "Which writer had a longer lifespan, Ann-Marie MacDonald or Michel Butor?",
+        "label": "Michel Butor",
+        "answer": "Michel Butor",
+        "time": 10.849778175354004,
+        "stats": null
+    },
+    "5a887898554299206df2b2a2": {
+        "question": "Are Broughtonia and Perilla both types of mint?",
+        "label": "no",
+        "answer": "no",
+        "time": 14.953496932983398,
+        "stats": null
+    },
+    "5adf2fa35542993344016c11": {
+        "question": "Which of Jonny Craig and Pete Doherty has been a member of more bands ?",
+        "label": "Jonny\" Craig",
+        "answer": "Jonny Craig",
+        "time": 17.05437731742859,
+        "stats": null
+    },
+    "5a7e6c725542991319bc94a4": {
+        "question": "Which band was formed first, Fitz and The Tantrums or The Contortionist?",
+        "label": "The Contortionist",
+        "answer": "The Contortionist",
+        "time": 10.564910650253296,
+        "stats": null
+    },
+    "5ab6bdd255429953192ad36e": {
+        "question": "In what country are both Ugni and Stenomesson native plants?",
+        "label": "Chile",
+        "answer": "Chile",
+        "time": 11.735044002532959,
+        "stats": null
+    },
+    "5ac3126f5542995ef918c0e8": {
+        "question": " Is it correct to state that Tetrapanax is an evergreen shrub as opposed to Hippophae which is a genus of sea buckthorns, a deciduous shrub?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 17.90144419670105,
+        "stats": null
+    },
+    "5ab4b2935542996a3a969fb5": {
+        "question": "Between Death in the Afternoon and Hennchata, whose inventor has more literary fame?",
+        "label": "Death in the Afternoon",
+        "answer": "Ernest Hemingway",
+        "time": 14.063791275024414,
+        "stats": null
+    },
+    "5ab5de535542992aa134a3b6": {
+        "question": "Are Alek Keshishian and Kirk Kerkorian both Armenian-American?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 11.748974084854126,
+        "stats": null
+    },
+    "5ac2cdaa554299657fa29070": {
+        "question": "Where are Neoregelia and Aloysia known to grow",
+        "label": "temperate climates,",
+        "answer": "South American rainforests for Neoregelia; temperate, subtropical and desert climates in the Americas for Aloysia",
+        "time": 15.131182670593262,
+        "stats": null
+    },
+    "5a729fa15542994cef4bc397": {
+        "question": "Which movie came out first, \"Bambi\" or \"Underdog\"?",
+        "label": "Bambi",
+        "answer": "Bambi",
+        "time": 9.86321473121643,
+        "stats": null
+    },
+    "5add39c45542995b365faac5": {
+        "question": "Did the the Battle of Stones River occur before the Battle of Saipan?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 11.725224733352661,
+        "stats": null
+    },
+    "5a7c74a65542990527d554b0": {
+        "question": "Which of the two came out first, The Wind in the Willows or The Bears and I?",
+        "label": "The Wind in the Willows",
+        "answer": "The Wind in the Willows",
+        "time": 11.017825603485107,
+        "stats": null
+    },
+    "5a89bf18554299669944a591": {
+        "question": "Do writers John O'Hara and Bobbie Ann Mason share the same nationality?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 9.672966241836548,
+        "stats": null
+    },
+    "5a82d71555429966c78a6a94": {
+        "question": "Were the Tundra Mine and Negus Mine located in the same country?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 6.544457197189331,
+        "stats": null
+    },
+    "5abd4f2e5542993062266c4b": {
+        "question": "Which plant is indigenous to the western hemisphere, Stephanocereus or Nepenthes?",
+        "label": "Stephanocereus",
+        "answer": "Stephanocereus",
+        "time": 11.301386833190918,
+        "stats": null
+    },
+    "5a7cd0fd55429909bec76823": {
+        "question": "Which band, Matthew Good Band or Switchfoot is still together?",
+        "label": "Switchfoot",
+        "answer": "Switchfoot",
+        "time": 7.117313623428345,
+        "stats": null
+    },
+    "5ae1408a5542997b2ef7d17c": {
+        "question": "Which is a university in Pennsylvania, University of New Haven or Carnegie Mellon University?",
+        "label": "Carnegie Mellon University",
+        "answer": "Carnegie Mellon University",
+        "time": 11.783441305160522,
+        "stats": null
+    },
+    "5a7562045542992db947364f": {
+        "question": "Which university was founded first, University of California, Berkeley or Saint Louis University?",
+        "label": "Saint Louis University",
+        "answer": "Saint Louis University",
+        "time": 11.047550916671753,
+        "stats": null
+    },
+    "5a88c92d5542993b751ca84e": {
+        "question": "What breed of dog are the Basset Bleu de Gascogne and the Beagle?",
+        "label": "The Beagle is a breed of small hound",
+        "answer": "hound",
+        "time": 11.909995555877686,
+        "stats": null
+    },
+    "5a7933b255429907847277eb": {
+        "question": "Which composer was also a teacher, Philip Glass or Franz Schreker? ",
+        "label": "Franz Schreker",
+        "answer": "Franz Schreker",
+        "time": 10.93513035774231,
+        "stats": null
+    },
+    "5adfdd1c55429906c02daa74": {
+        "question": "Which band was formed earlier: Marianas Trench or Tse Tse Fly?",
+        "label": "Tse Tse Fly",
+        "answer": "Tse Tse Fly",
+        "time": 13.522659063339233,
+        "stats": null
+    },
+    "5a8c5794554299240d9c2131": {
+        "question": "Are Willard Mack and Subhash Ghai both involved in film?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 11.965043783187866,
+        "stats": null
+    },
+    "5a8753d95542994846c1cd63": {
+        "question": "Did John Updike and Tom Clancy both publish more than 15 bestselling novels?",
+        "label": "yes",
+        "answer": "unclear",
+        "time": 7.647522687911987,
+        "stats": null
+    },
+    "5a794f8155429970f5fffe95": {
+        "question": "Who was born first, Martin Degville or Richie Furay?",
+        "label": "\"Richie\" Furay",
+        "answer": "Paul Richard Furay",
+        "time": 13.915340900421143,
+        "stats": null
+    },
+    "5ac1a5b45542991316484b8b": {
+        "question": "Are both Odds and Supergrass rock bands?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 7.815980434417725,
+        "stats": null
+    },
+    "5abfd3d65542994516f4550b": {
+        "question": "Are both Don Giovanni and Cardillac operas with three acts?",
+        "label": "no",
+        "answer": "no",
+        "time": 12.161437034606934,
+        "stats": null
+    },
+    "5ae39fb85542990afbd1e197": {
+        "question": "Do both Changle District and Longkou face water?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 9.20969533920288,
+        "stats": null
+    },
+    "5a837121554299123d8c2128": {
+        "question": "Q1: Which mountain is located in China, Kirat Chuli or Kangpenqing?",
+        "label": "Kangpenqing (also Gang Benchhen) is a mountain in the Baiku Himalayas of Tibet, China.",
+        "answer": "Kangpenqing",
+        "time": 11.142769813537598,
+        "stats": null
+    },
+    "5a74f5155542993748c89750": {
+        "question": "What mine was operated by Royal Oak Mines at at earlier date, Kemess Mine or Colomac Mine?",
+        "label": "The Colomac Mine",
+        "answer": "Colomac Mine",
+        "time": 13.006775140762329,
+        "stats": null
+    },
+    "5a762cf0554299109176e6a4": {
+        "question": "Who is older, Bertalan Farkas or Hans Schlegel?",
+        "label": "Bertalan Farkas",
+        "answer": "Bertalan Farkas",
+        "time": 12.089106559753418,
+        "stats": null
+    },
+    "5a827ce155429940e5e1a8d7": {
+        "question": "Which player won more Grand Slam titles, Kevin Ullyett or Billie Jean King?",
+        "label": "Billie Jean King",
+        "answer": "Billie Jean King",
+        "time": 13.634699821472168,
+        "stats": null
+    },
+    "5a905f2a55429933b8a204fb": {
+        "question": "Do tennis players Kathy Jordan and Sergi Bruguera have the same nationality?",
+        "label": "no",
+        "answer": "no",
+        "time": 19.16581392288208,
+        "stats": null
+    },
+    "5ab9379a554299753720f79d": {
+        "question": "Which University, University of New South Wales or Purbanchal University was established first ?",
+        "label": "The University of New South Wales",
+        "answer": "University of New South Wales",
+        "time": 8.65661096572876,
+        "stats": null
+    },
+    "5a78fe8155429970f5fffe11": {
+        "question": "Who was born first, Steve Hogarth or Donnie Munro?",
+        "label": "Donnie Munro",
+        "answer": "Donnie Munro",
+        "time": 9.254658222198486,
+        "stats": null
+    },
+    "5a7b4fee554299042af8f748": {
+        "question": "What man is linked to both Johnny Tremain and Magic Kingdom?",
+        "label": "Walt Disney",
+        "answer": "Walt Disney",
+        "time": 10.544772386550903,
+        "stats": null
+    },
+    "5a823f61554299676cceb234": {
+        "question": "Where Ken Kwapis and John Woo both working on films in the 1980's?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 7.4945878982543945,
+        "stats": null
+    },
+    "5a7647505542992d0ec06089": {
+        "question": "How has played in more bands, Kim Wilson or Chino Moreno?",
+        "label": "Chino Moreno",
+        "answer": "Chino Moreno",
+        "time": 13.531135320663452,
+        "stats": null
+    },
+    "5a749af055429979e28829b7": {
+        "question": "Which Walt Disney film was produced first, The Apple Dumpling Gang or Something Wicked This Way Comes?",
+        "label": "The Apple Dumpling Gang",
+        "answer": "The Apple Dumpling Gang",
+        "time": 13.37806510925293,
+        "stats": null
+    },
+    "5ae0039555429942ec259be1": {
+        "question": "Between MetroSource and Chicago, which magazine is published more frequently?",
+        "label": "Chicago",
+        "answer": "Chicago",
+        "time": 13.526414155960083,
+        "stats": null
+    },
+    "5ae4758b5542995dadf24342": {
+        "question": "Who has a wider scope of profession,  Jos\u00e9 Echegaray or Graham Swift?",
+        "label": "Jos\u00e9 Echegaray",
+        "answer": "Jos\u00e9 Echegaray",
+        "time": 13.695301055908203,
+        "stats": null
+    },
+    "5a89fa2655429970aeb701d2": {
+        "question": "Are Stanley Elkin and Anne Tyler from the same country?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 10.926109790802002,
+        "stats": null
+    },
+    "5ac2a3c7554299218029dadb": {
+        "question": "Which genus has more species in it, Othonna or Stangeria?",
+        "label": "Othonna",
+        "answer": "Othonna",
+        "time": 10.72195315361023,
+        "stats": null
+    },
+    "5a75f0bf5542994ccc91866b": {
+        "question": "Who is younger, Pelle Almqvist or Steve Winwood?",
+        "label": "Pelle Almqvist",
+        "answer": "Pelle Almqvist",
+        "time": 11.284614562988281,
+        "stats": null
+    },
+    "5a7bb2595542995eb53be99b": {
+        "question": "Who was born first, George Kuchar or Arthur Penn?",
+        "label": "Arthur Hiller Penn",
+        "answer": "Arthur Penn",
+        "time": 11.632761240005493,
+        "stats": null
+    },
+    "5ab981555542996be2020532": {
+        "question": "Is Bob Hewitt a citizen of a different country than Ray Ruffels?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 11.07748293876648,
+        "stats": null
+    },
+    "5ac15de55542991316484afb": {
+        "question": "Were the films Crazy Love and Welcome to Nollywood both released in 2008?",
+        "label": "no",
+        "answer": "no",
+        "time": 13.651012420654297,
+        "stats": null
+    },
+    "5a76538d5542992db9473764": {
+        "question": "Which singer/songwriter is the Executive Vice President of A&R at Capitol Records: Nate Albert or Rod Stewart?",
+        "label": "Nate Albert",
+        "answer": "Nate Albert",
+        "time": 10.344632148742676,
+        "stats": null
+    },
+    "5a7a2be25542996a35c17118": {
+        "question": "Which band has had more members, The Operation M.D. or Del Amitri?",
+        "label": "Del Amitri",
+        "answer": "The information is not available in the provided resources",
+        "time": 11.898858547210693,
+        "stats": null
+    },
+    "5a78eea555429970f5fffddf": {
+        "question": "Q: Who was born first Richard Boleslawski or Herschell Gordon Lewis?",
+        "label": "Richard Boleslawski",
+        "answer": "Richard Boleslawski",
+        "time": 11.241706371307373,
+        "stats": null
+    },
+    "5a816db055429903bc27b961": {
+        "question": "In what city are both 8 Spruce Street and the World Trade Center located?",
+        "label": "New York City",
+        "answer": "New York City",
+        "time": 12.869884729385376,
+        "stats": null
+    },
+    "5ac3d667554299076e296ca5": {
+        "question": "Which dog is based in Switzerland, Appenzeller Sennenhund or Drentse Patrijshond?",
+        "label": "Appenzeller Sennenhund",
+        "answer": "Appenzeller Sennenhund",
+        "time": 7.099429368972778,
+        "stats": null
+    },
+    "5a7324205542994cef4bc478": {
+        "question": "Who is a poet, Rumi or Farouk El-Baz?",
+        "label": "Rumi (30 September 1207 \u2013 17 December 1273), was a 13th-century Persian Sunni Muslim poet",
+        "answer": "Rumi",
+        "time": 8.525744676589966,
+        "stats": null
+    },
+    "5a8b91d25542995d1e6f13fc": {
+        "question": "What occupation have Carly Gullickson and Francesca Schiavone both held?",
+        "label": "professional tennis player.",
+        "answer": "professional tennis player",
+        "time": 10.502089262008667,
+        "stats": null
+    },
+    "5ac2759655429921a00aaf7f": {
+        "question": "What genre of music did Benjamin Burnley and Yannis Philippakis have in common?",
+        "label": "rock",
+        "answer": "rock music",
+        "time": 7.868388891220093,
+        "stats": null
+    },
+    "5a85ebe75542996432c5712a": {
+        "question": "Are both Ride a Wild Pony and Frozen 2 computer-animated films?",
+        "label": "no",
+        "answer": "no",
+        "time": 11.622740983963013,
+        "stats": null
+    },
+    "5a84cd4b5542991dd0999dfe": {
+        "question": "Are both Kyosuke Himuro and Boy George musicians from the 1980s?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 10.826341152191162,
+        "stats": null
+    },
+    "5a774c0155429966f1a36ce2": {
+        "question": "Which women's magazine was published first, Mirabella or Home Monthly?",
+        "label": "Home Monthly",
+        "answer": "Home Monthly",
+        "time": 9.962843418121338,
+        "stats": null
+    },
+    "5abd1b6e55429933744ab729": {
+        "question": "Which of the following cities is a county-level city, Jingzhou or Zixing?",
+        "label": "Zixing",
+        "answer": "Zixing",
+        "time": 13.701543092727661,
+        "stats": null
+    },
+    "5a82a91155429940e5e1a911": {
+        "question": "Which documentary film came out first The Last Lions or Prophet's Prey ?",
+        "label": "The Last Lions",
+        "answer": "The Last Lions",
+        "time": 16.99197268486023,
+        "stats": null
+    },
+    "5a8e1577554299068b959e54": {
+        "question": "What professionn does Stanley Kwan and Ken Hughes have in common?",
+        "label": "director",
+        "answer": "film director and producer",
+        "time": 11.130676031112671,
+        "stats": null
+    },
+    "5adc411f5542994650320cbc": {
+        "question": "Which satellite was operational for longer, International Ultraviolet Explorer or EXOSAT?",
+        "label": "International Ultraviolet Explorer",
+        "answer": "International Ultraviolet Explorer",
+        "time": 16.560900688171387,
+        "stats": null
+    },
+    "5a8c49655542995e66a47598": {
+        "question": "Which college was founded first, Williams College or University of Southern California?",
+        "label": "Williams College",
+        "answer": "Williams College",
+        "time": 8.781426668167114,
+        "stats": null
+    },
+    "5a79c9cc554299148911fa53": {
+        "question": "Which was released first, The Greatest Game Ever Played or Hot Lead and Cold Feet?",
+        "label": "Hot Lead and Cold Feet",
+        "answer": "Hot Lead and Cold Feet",
+        "time": 11.716747522354126,
+        "stats": null
+    },
+    "5a7108fa5542994082a3e4ef": {
+        "question": "Which battle, the Battle of Cold Harbor, or the Second Battle of Bull Run, was fought first?",
+        "label": "Second Battle of Bull Run",
+        "answer": "Second Battle of Bull Run",
+        "time": 16.491461515426636,
+        "stats": null
+    },
+    "5a812cd555429926c1cdacfc": {
+        "question": "Which drink is larger, the Apple-Kneel or the Flaming volcano?",
+        "label": "The flaming volcano",
+        "answer": "Flaming volcano",
+        "time": 15.399518966674805,
+        "stats": null
+    },
+    "5ac4efa85542991943173a04": {
+        "question": "Which body of water flows through more states, Tamiami Canal or Genesee River?",
+        "label": "Genesee River",
+        "answer": "Genesee River",
+        "time": 22.37861442565918,
+        "stats": null
+    },
+    "5a7df7115542990b8f503b0f": {
+        "question": "Who was born first out of Todd Field and Aaron Katz?",
+        "label": "William Todd Field",
+        "answer": "Todd Field",
+        "time": 14.859663486480713,
+        "stats": null
+    },
+    "5ab484415542990594ba9c44": {
+        "question": "Which facility was founded in Missouri, Discovery Zone or Valentino's?",
+        "label": "Discovery Zone",
+        "answer": "Discovery Zone",
+        "time": 12.947020292282104,
+        "stats": null
+    },
+    "5ac3d10b5542993915413952": {
+        "question": "Which player is from Brazil, Jimmy Connors or Maria Bueno?",
+        "label": "Maria Esther Andion Bueno",
+        "answer": "Maria Bueno",
+        "time": 11.496079444885254,
+        "stats": null
+    },
+    "5a7f010955429934daa2fc8b": {
+        "question": "Were Basil Dean and Francis Ford Coppola both alive at some point in time?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 12.513175964355469,
+        "stats": null
+    },
+    "5a7b40cd5542995eb53be8d4": {
+        "question": "Which magazine has been around longer, Guitar World or Golf Digest?",
+        "label": "Golf Digest",
+        "answer": "Golf Digest",
+        "time": 10.249096870422363,
+        "stats": null
+    },
+    "5ae34a225542992e3233c370": {
+        "question": "Did the playwrights Eug\u00e8ne Ionesco and Paul Scott live during the same time period?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 14.106756687164307,
+        "stats": null
+    },
+    "5a8b59a65542995d1e6f137c": {
+        "question": "Are Stephen Frears and Jan \u0160vankmajer from the same country?",
+        "label": "no",
+        "answer": "no",
+        "time": 12.405371904373169,
+        "stats": null
+    },
+    "5ab674b7554299110f219a0c": {
+        "question": "What American filmmaker was the co-founder of Troma Entertainment film studio, Stanley Lloyd Kaufman, Jr. or Jay T. Wright?",
+        "label": "Stanley Lloyd Kaufman, Jr.",
+        "answer": "Stanley Lloyd Kaufman, Jr.",
+        "time": 13.684860706329346,
+        "stats": null
+    },
+    "5ac370ce5542995ef918c18c": {
+        "question": "Are Southwest Florida International Airport and Henry E. Rohlsen Airport both in Florida?",
+        "label": "no",
+        "answer": "no",
+        "time": 15.204328060150146,
+        "stats": null
+    },
+    "5a7e05f75542995f4f402394": {
+        "question": "Which was released first, Hot Girls Wanted or China Blue?",
+        "label": "China Blue",
+        "answer": "ERROR",
+        "time": 5.790078163146973,
+        "stats": null
+    },
+    "5a7797a555429967ab105208": {
+        "question": "Who is younger, Wayne Coyne or Toshiko Koshijima?",
+        "label": "Toshiko Koshijima",
+        "answer": "Toshiko Koshijima",
+        "time": 9.252576351165771,
+        "stats": null
+    },
+    "5a7af74e55429931da12c9b5": {
+        "question": "Which band formed first, Duran Duran or The Fratellis?",
+        "label": "Duran Duran",
+        "answer": "Duran Duran",
+        "time": 9.049371004104614,
+        "stats": null
+    },
+    "5a85f4425542994775f606c4": {
+        "question": "What movie genre does both \"The Trials of Life\" and \"Human\" belong to?",
+        "label": "documentary",
+        "answer": "Documentary",
+        "time": 16.13812780380249,
+        "stats": null
+    },
+    "5ac2cb125542996773102626": {
+        "question": "Are both Leycesteria and Anigozanthos native to Australia?",
+        "label": "no",
+        "answer": "unclear",
+        "time": 10.728348970413208,
+        "stats": null
+    },
+    "5ab985eb554299131ca42360": {
+        "question": "Between Greyia and Calibanus, which genus contains more species?",
+        "label": "Greyia",
+        "answer": "Greyia",
+        "time": 12.94806694984436,
+        "stats": null
+    },
+    "5a80caac554299260e20a161": {
+        "question": "Were both Prince and Patty Jenkins have been inducted into the Rock and Roll Hall of Fame?",
+        "label": "no",
+        "answer": "no",
+        "time": 14.988875389099121,
+        "stats": null
+    },
+    "5a7efd2f5542994959419a9c": {
+        "question": "Which band opened for more major international acts, Blessid Union of Souls or Blue Peter?",
+        "label": "Blue Peter",
+        "answer": "Blue Peter",
+        "time": 10.153117656707764,
+        "stats": null
+    },
+    "5abed4d55542990832d3a0e0": {
+        "question": "Are Tantrix and Personal Preference both types of games?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 9.49962830543518,
+        "stats": null
+    },
+    "5a7769a35542993569682d8f": {
+        "question": "Which documentary was release first, Baghdad ER or The Ten-Year Lunch?",
+        "label": "The Ten-Year Lunch",
+        "answer": "The Ten-Year Lunch",
+        "time": 9.27117371559143,
+        "stats": null
+    },
+    "5a7a77425542995eb53be83e": {
+        "question": "Who has released more solo albums, Nick Carter or Brady Seals?",
+        "label": "Brady Seals",
+        "answer": "Neither",
+        "time": 12.519402742385864,
+        "stats": null
+    },
+    "5a84b7db5542991dd0999db0": {
+        "question": "Are both G\u00f6tterd\u00e4mmerung and Dafne considered operas?",
+        "label": "no",
+        "answer": "yes",
+        "time": 15.311368465423584,
+        "stats": null
+    },
+    "5a7ca0ef55429907fabeefd3": {
+        "question": "Which professional tennis player was born first, Lucie Hradeck\u00e1 or Raffaella Reggi?",
+        "label": "Raffaella Reggi",
+        "answer": "Raffaella Reggi",
+        "time": 11.628774881362915,
+        "stats": null
+    },
+    "5ae1e9635542997f29b3c19e": {
+        "question": "Which airport is located further north in the United States, San Angelo Regional Airport or Grand Junction Regional Airport?",
+        "label": "Grand Junction Regional Airport",
+        "answer": "Grand Junction Regional Airport",
+        "time": 13.322481393814087,
+        "stats": null
+    },
+    "5a8230af554299676cceb227": {
+        "question": "Have filmmakers Enrico Cocozza and Mira Nair both been nominated for awards for their work?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 9.130537271499634,
+        "stats": null
+    },
+    "5a79240955429974737f79a4": {
+        "question": "Which dog is native to France, the Basset Bleu de Gascogne or the Bulldog?",
+        "label": "Basset Bleu de Gascogne",
+        "answer": "Basset Bleu de Gascogne",
+        "time": 10.192272663116455,
+        "stats": null
+    },
+    "5a8b82a05542995d1e6f13d0": {
+        "question": "Are University of Virginia and Massachusetts Institute of Technology in the same country?",
+        "label": "yes",
+        "answer": "yes",
+        "time": 10.61048936843872,
+        "stats": null
+    },
+    "5a7dca645542990b8f503aab": {
+        "question": "Who was born first, Ana\u00efs Lameche or Darren Hayes?",
+        "label": "Darren Stanley Hayes",
+        "answer": "Darren Hayes",
+        "time": 9.159993171691895,
+        "stats": null
+    },
+    "5a7d5c175542991319bc93b1": {
+        "question": "Between Harvey Pekar and Denise Levertov who was born earlier?",
+        "label": "Denise Levertov",
+        "answer": "Denise Levertov",
+        "time": 12.580596208572388,
+        "stats": null
+    },
+    "5ae2994d554299492dc91c31": {
+        "question": "Which of the bands, Hot Snakes or UB40, has more band members?",
+        "label": "UB40",
+        "answer": "unclear",
+        "time": 8.309644222259521,
+        "stats": null
+    }
+}
